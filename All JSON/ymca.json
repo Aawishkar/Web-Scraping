@@ -1,0 +1,297 @@
+[
+    {
+        "name": "YMCA Camp Mason",
+        "url": "https://campmason.org/",
+        "logo": "https://campmason.org/yhdrlogo.png",
+        "description": "Have your overnight camper join us for a Horseback Trail Riding adventure! Your camper will have an experience that mingles the fun of horseback riding with learning about riding skills, horse behavior and general trail riding information. We offer flexible and affordable options for horseback trail rides.",
+        "location": {
+            "address": "23 Birch Ridge Road Hardwick, NJ 07825",
+            "zip_code": "07825",
+            "latitude": "41.035794",
+            "longitude": "-74.953237"
+        },
+        "contact": {
+            "mail": "info@campmason.org",
+            "telephone": "908-362-8217"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/ymcacampmason"
+            },
+            {
+                "instagram": "https://www.instagram.com/ymcacampmason"
+            }
+        ],
+        "image_urls": [
+            "https://campmason.org/wp-content/uploads/2024/08/Mountain-Top-scaled.jpg",
+            "https://campmason.org/wp-content/uploads/2015/04/Lake-copy.jpg",
+            "https://campmason.org/wp-content/uploads/2021/10/2016-10-Y_BSE-SHOT5_0022-scaled.jpg",
+            "https://campmason.org/wp-content/uploads/2023/12/DSC_0140-scaled.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "Overnight Camp",
+                "duration": "2-Week Session",
+                "cost": "$2,520",
+                "eligible": "2nd - 10th grades",
+                "dates": [
+                    {
+                        "start_date": "June 22",
+                        "end_date": "July 5"
+                    },
+                    {
+                        "start_date": "July 6",
+                        "end_date": "July 19"
+                    },
+                    {
+                        "start_date": "July 20",
+                        "end_date": "August 2"
+                    },
+                    {
+                        "start_date": "August 3",
+                        "end_date": "August 16"
+                    }
+                ],
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Overnight Starter Camps",
+                "duration": "1-Week Session",
+                "cost": "$1,390",
+                "eligible": "2nd - 9th grades",
+                "dates": [
+                    {
+                        "start_date": "June 22",
+                        "end_date": "June 28"
+                    },
+                    {
+                        "start_date": "June 29",
+                        "end_date": "July 5"
+                    },
+                    {
+                        "start_date": "July 20",
+                        "end_date": "July 26"
+                    },
+                    {
+                        "start_date": "July 27",
+                        "end_date": "August 2"
+                    },
+                    {
+                        "start_date": "August 3",
+                        "end_date": "August 9"
+                    }
+                ],
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "CIT Program",
+                "duration": "4-Week Session",
+                "cost": "$3,600",
+                "eligible": null,
+                "dates": [
+                    {
+                        "start_date": "June 22",
+                        "end_date": "July 19"
+                    },
+                    {
+                        "start_date": "July 20",
+                        "end_date": "August 16"
+                    }
+                ],
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "One Week",
+                "cost": "$350",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Two Weeks",
+                "cost": "$700",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Three Weeks",
+                "cost": "$1050",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Four Weeks",
+                "cost": "$1302",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Five Weeks",
+                "cost": "$1592",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Six Weeks",
+                "cost": "$1869",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Seven Weeks",
+                "cost": "$2131",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            },
+            {
+                "name": "Day Camp",
+                "duration": "Eight Weeks",
+                "cost": "$2380",
+                "eligible": "Kindergarten - 8th grade",
+                "start_date": "June 23",
+                "end_date": "August 15",
+                "location": "23 Birch Ridge Road, Hardwick",
+                "deposits": null
+            }
+        ],
+        "categories": [
+            {
+                "name": "Classic Camp Activities",
+                "description": "Some activities that campers may try at overnight camp are boating and canoeing, rock climbing, archery, nature hikes, crafts, swimming, court/field sports, and farm and garden visits. Campers burn off energy playing games like Capture the Flag, take adventures around camp on Scavenger Hunts and so much more!",
+                "image": "https://campmason.org/wp-content/uploads/2016/09/IMG_8010-1024x683.jpg"
+            },
+            {
+                "name": "Creative Activities",
+                "description": "There are some things at camp that you just have to experience! Each summer we play and take part in creative activities and games together. Sometimes they become overnight camp classics and other times they are unique to a special event or theme. Picture slip and slides, mural painting, quidditch or even a zombie invasion! Campers love to try out new activities and even share their own ideas for their friends and counselors to try.",
+                "image": "https://campmason.org/wp-content/uploads/2023/12/IMG_6909-1024x683.jpg"
+            },
+            {
+                "name": "Theme Days",
+                "description": "Each week Overnight Camp celebrates the arrival of the weekend with a special themed event. Themes vary from the Mason Olympics to Time Travel days and beyond. Each summer, staff come up with fresh, exciting ideas for theme days for campers to take part in!",
+                "image": "https://campmason.org/wp-content/uploads/2017/02/Session-2-All-Camp-1024x683.jpg"
+            },
+            {
+                "name": "TRAIL RIDES",
+                "description": "Have your overnight camper join us for a Horseback Trail Riding adventure! Your camper will have an experience that mingles the fun of horseback riding with learning about riding skills, horse behavior and general trail riding information. We offer flexible and affordable options for horseback trail rides.",
+                "image": "https://campmason.org/wp-content/uploads/2019/05/barn_1.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Boating and Canoeing",
+                "description": "Enjoy water-based fun while learning the basics of boating and canoeing. Campers can explore the water and develop teamwork skills in a safe and controlled environment.",
+                "image": "null"
+            },
+            {
+                "name": "Rock Climbing",
+                "description": "Campers will challenge themselves with rock climbing, improving their strength, coordination, and problem-solving abilities as they scale various climbing walls or outdoor rock faces.",
+                "image": "null"
+            },
+            {
+                "name": "Archery",
+                "description": "Archery activities allow campers to hone their focus and precision. They'll practice shooting arrows at targets, learning safe handling and techniques in a supportive and exciting setting.",
+                "image": "null"
+            },
+            {
+                "name": "Nature Hikes",
+                "description": "Nature hikes introduce campers to the great outdoors, where they can observe wildlife, learn about ecosystems, and develop a love for nature while hiking through the camp's surroundings.",
+                "image": "null"
+            },
+            {
+                "name": "Crafts",
+                "description": "In arts and crafts sessions, campers explore their creativity by making handmade projects using various materials like paint, clay, and fabric. It's a great way to express individuality and make keepsakes.",
+                "image": "null"
+            },
+            {
+                "name": "Swimming",
+                "description": "Swimming sessions offer a fun way to cool off and build water safety skills. Campers can enjoy pool games, races, and lessons, all while improving their swimming techniques.",
+                "image": "null"
+            },
+            {
+                "name": "Court/Field Sports",
+                "description": "Activities such as soccer, basketball, and volleyball help campers develop teamwork, coordination, and physical fitness while having fun competing in friendly sports tournaments.",
+                "image": "null"
+            },
+            {
+                "name": "Farm and Garden Visits",
+                "description": "Campers can learn about agriculture and sustainability by visiting farm and garden areas. They may participate in planting, harvesting, or caring for animals, gaining hands-on experience in environmental stewardship.",
+                "image": "null"
+            },
+            {
+                "name": "Capture the Flag",
+                "description": "This classic outdoor game encourages teamwork, strategy, and physical activity as two teams compete to capture the opposing team's flag while defending their own.",
+                "image": "null"
+            },
+            {
+                "name": "Scavenger Hunts",
+                "description": "Scavenger hunts challenge campers to work together to find specific items or complete tasks around the camp, enhancing problem-solving skills and encouraging exploration.",
+                "image": "null"
+            },
+            {
+                "name": "Slip and Slides",
+                "description": "On hot days, slip and slide activities provide thrilling water fun. Campers run and slide down a wet surface, speeding through on an inflatable or natural slide.",
+                "image": "null"
+            },
+            {
+                "name": "Mural Painting",
+                "description": "Mural painting allows campers to collaborate on large-scale art projects, leaving a colorful and creative mark on the camp for future visitors to admire.",
+                "image": "null"
+            },
+            {
+                "name": "Quidditch",
+                "description": "A fun, magical sport inspired by the Harry Potter series, where campers play a team-based game that involves flying broomsticks, scoring goals, and trying to catch the Golden Snitch.",
+                "image": "null"
+            },
+            {
+                "name": "Zombie Invasion",
+                "description": "A spooky and thrilling themed event where campers participate in a zombie-themed chase or survival game, using strategy and teamwork to outwit the 'zombies.'",
+                "image": "null"
+            },
+            {
+                "name": "Fourth of July Celebrations",
+                "description": "A special day full of patriotic activities, including parades, games, and fireworks (if safe), celebrating American history and culture.",
+                "image": "null"
+            },
+            {
+                "name": "Olympic Event",
+                "description": "An exciting competition day with various athletic events where campers participate in a mini-Olympics, aiming for gold, silver, and bronze in fun, competitive games.",
+                "image": "null"
+            },
+            {
+                "name": "Carnival",
+                "description": "A fun, festive day at camp filled with carnival games, face painting, cotton candy, and other exciting activities, bringing a sense of community and enjoyment.",
+                "image": "null"
+            }
+        ]
+    }
+]

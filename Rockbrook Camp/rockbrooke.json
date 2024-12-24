@@ -1,0 +1,478 @@
+[
+    {
+        "name": "Rockbrook Camp",
+        "url": "https://www.rockbrookcamp.com/",
+        "logo": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20226%2092'%3E%3C/svg%3E",
+        "description": "In addition to regular activities, each day at Rockbrook includes\nsurprise special events.",
+        "location": {
+            "address": "Brevard, NC",
+            "zip_code": " 28712",
+            "latitude": "35.21119",
+            "longitude": "-82.75938"
+        },
+        "contact": {
+            "mail": "office@rockbrookcamp.com",
+            "telephone": "828.884.6151"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/Rockbrook"
+            },
+            {
+                "twitter": "https://twitter.com/Rockbrook"
+            },
+            {
+                "youtube": "https://www.youtube.com/c/Rockbrookcamp"
+            },
+            {
+                "pinterest": "https://www.pinterest.com/rockbrook/"
+            },
+            {
+                "instagram": "https://www.instagram.com/rockbrookcamp/"
+            }
+        ],
+        "image_urls": [
+            "https://www.rockbrookcamp.com/wp-content/uploads/2023/01/camp-girls-climbing.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/horse-girl-jumping.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/girls-horseback.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/climbing-camp.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/gaga-ball-game.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/spinning-pottery-wheel.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2020/01/north-carolina-hiking.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2024/10/flooded-riding-ring.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2024/08/emotion-camp-friends.jpeg",
+            "https://www.rockbrookcamp.com/wp-content/uploads/2024/08/space-party-decorations.jpeg"
+        ],
+        "sessions": [
+            {
+                "name": "First Session",
+                "duration": "null",
+                "eligible": "2nd-10th grade",
+                "start_date": "June 8",
+                "end_date": "Thursday, June 26",
+                "cost": "$ 6700",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            },
+            {
+                "name": "Second Session",
+                "duration": "null",
+                "eligible": "2nd-10th grade",
+                "start_date": "June 29",
+                "end_date": "Thursday, July 24",
+                "cost": "$ 8300",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            },
+            {
+                "name": "July Mini Session 1",
+                "duration": "null",
+                "eligible": "K-6th grade",
+                "start_date": "June 29",
+                "end_date": "Thursday, July 10",
+                "cost": "$ 4950",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            },
+            {
+                "name": "July Mini Session 2",
+                "duration": "null",
+                "eligible": "K-6th grade",
+                "start_date": "July 13",
+                "end_date": "Thursday, July 24",
+                "cost": "$ 4950",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            },
+            {
+                "name": "Third Session",
+                "duration": "null",
+                "eligible": "K-10th grade",
+                "start_date": "July 27",
+                "end_date": "Sunday, August 10",
+                "cost": "$ 5600",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            },
+            {
+                "name": "Horse Camp",
+                "duration": "null",
+                "eligible": null,
+                "start_date": "August 3",
+                "end_date": "Sunday, August 10",
+                "cost": "$ 2800",
+                "deposits": "null",
+                "location": "Brevard, NC"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Arts and Crafts",
+                "description": "Get creative !!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=823,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/art-crafts-camp-kids.jpeg"
+            },
+            {
+                "name": "Sports",
+                "description": "Rockbrook has an fun sports and games program of activities for its campers. With an emphasis on fun and action, girls at camp can play different ball games, learn target shooting sports, heat up with field sports, and cool off at our unique mountain waterfront. There are seven different sports activities available.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1200,height=803,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2018/02/fieldsports-camp-girls.jpeg"
+            },
+            {
+                "name": "Outdoor Adventure",
+                "description": "Every day at camp offers incredible outdoor adventure thrills.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/outdoor-adventure-rafting.jpeg"
+            },
+            {
+                "name": "Horseback Riding Camps",
+                "description": "Horseback riding at Rockbrook camp combines excellent horses and ponies, qualified instructors, and top-notch facilities, to create an equestrian program where girls can improve their horseback riding skills, deepen their horsemanship knowledge, and have fun riding with friends.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1840,height=700,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2015/02/girls-horseback-2.jpg"
+            },
+            {
+                "name": "Kids Activities",
+                "description": "When you think of kids summer camps you think of fun activities. It might be a camp out under the stars, splashing into the lake, or weaving your first lanyard? For a camp like Rockbrook, kids have the chance to try new things that they may not get to do at home, such as rock climbing, pottery or horseback riding. All of our camp activities take place in a noncompetitive environment encouraging everyone to do their best all without the added fear of failure.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=1080,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/painting-camp-kids.jpeg"
+            },
+            {
+                "name": "Special Events",
+                "description": "In addition to regular activities, each day at Rockbrook includes\nsurprise special events.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=823,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/camp-special-event.jpeg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Pottery",
+                "description": "Pottery is probably the most popular arts and crafts activity at Rockbrook! Like so many arts practiced in this part of North Carolina, there is a long tradition of working with clay at camp\u2014 rolling, pinching, flattening, adding texture, and shaping it into amazing, colorful pottery and ceramic projects. Rockbrook has two pottery studios perfectly set up to learn the basics of pottery at camp and later more advanced techniques.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/girls-pottery-camp.jpeg"
+            },
+            {
+                "name": "Jewelry Making",
+                "description": "Jewelry making is another arts and crafts outlet for the girls at Rockbrook. Held on the porch of the historic hillside stone lodge, campers use wire, colorful string and yarns, plus beads and other sparkly ornaments to make necklaces, bracelets, and fun earrings. Like so many of the arts activities at Rockbrook, Jewelry Making is a wonderful blend of tradition and creativity, community and self expression.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/random-beads.jpeg"
+            },
+            {
+                "name": "Weaving",
+                "description": "Weaving, the creation of textiles or cloth by interlacing materials, is one of the original craft activities taught at Rockbrook. From a beginner\u2019s potholder project to using a full-sized floor loom, there are many types of weaving camp projects that campers can try at Rockbrook.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/camp-weaving-loom.jpeg"
+            },
+            {
+                "name": "Needlecrafts",
+                "description": "Needlecraft is another fiberarts craft activity offered at Rockbrook. It focuses on using colorful yarns, strings, threads and other fibers to practice the traditional arts of knitting, crocheting, embroidery and decorative sewing. Campers learn basic stitches and other techniques to make personalized creative projects.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2100,height=900,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/03/needlecraft-camp.jpeg"
+            },
+            {
+                "name": "Hodge Podge",
+                "description": "Hodge Podge is a crafts activity that focuses on using all kinds of fabrics and cloth to offer a true \u201chodge podge\u201d of creative projects. Every class is different offering a whole range of fun, surprising craft creations\u2014 tie-dying, making headbands, sock puppets, and pillows, for example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-craft-girls.jpeg"
+            },
+            {
+                "name": "Painting and Drawing",
+                "description": "Painting and Drawing is the arts and crafts activity at Rockbrook that introduces girls to the techniques, concepts and materials used to paint and draw in different media. Girls learn how to draw and paint! They learn about the importance of observation and imagination. They work with various materials like pencils, pens, oil pastels, charcoal, water colors, and tempera paints. All while exploring the fun of being creative and building artistic confidence.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=943,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/painting-drawing.jpeg"
+            },
+            {
+                "name": "Papercrafts",
+                "description": "This fun crafts activity gets creative with paper. It\u2019s papercrafts, scrapbooking, or what we call KIT (which stands for \u201ckeep it touch\u201d)! Held in the historic camp building called \u201cGoodwill,\u201d girls make all sorts of things with paper. They start with ornate card stock, patterned paper, stickers, stamps, pens, and embellishments to create a wide variety of papercrafts to send to family or take home.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-paper-crafts.jpeg"
+            },
+            {
+                "name": "Folklore",
+                "description": "\u201cFolklore\u201d is the name of the arts and crafts activity at Rockbrook that reproduces traditional crafts popular in this mountain area. Campers learn about some of the craft traditions preserved by the Appalachian culture of this area in North Carolina while at the same time exploring their creativity. Working with simple materials like leather, paints, corn husks, fabrics, thread, soap and wax, the girls follow instructors presentation of different craft projects, each girl making her own example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-folklore-crafts.jpeg"
+            },
+            {
+                "name": "Woodworking",
+                "description": "Woodworking is the process of manipulating wood to make beautiful and useful objects. At Rockbrook, it\u2019s a craft activity where girls are introduced to the skills and concepts that go into making things from wood. Campers of all ages enjoy their time in the Rockbrook Woodshop where they not only learn the basics of wood craftsmanship, but also use wood to create really cool projects.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/10/camp-woodworking-girls.jpeg"
+            },
+            {
+                "name": "Camp Weaving",
+                "description": "Weaving, the creation of textiles or cloth by interlacing materials, is one of the original craft activities taught at Rockbrook. From a beginner\u2019s potholder project to using a full-sized floor loom, there are many types of weaving camp projects that campers can try at Rockbrook.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/camp-weaving-loom.jpeg"
+            },
+            {
+                "name": "Jewelry Making Crafts",
+                "description": "Jewelry making is another arts and crafts outlet for the girls at Rockbrook. Held on the porch of the historic hillside stone lodge, campers use wire, colorful string and yarns, plus beads and other sparkly ornaments to make necklaces, bracelets, and fun earrings. Like so many of the arts activities at Rockbrook, Jewelry Making is a wonderful blend of tradition and creativity, community and self expression.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/random-beads.jpeg"
+            },
+            {
+                "name": "Painting and Drawing",
+                "description": "Painting and Drawing is the arts and crafts activity at Rockbrook that introduces girls to the techniques, concepts and materials used to paint and draw in different media. Girls learn how to draw and paint! They learn about the importance of observation and imagination. They work with various materials like pencils, pens, oil pastels, charcoal, water colors, and tempera paints. All while exploring the fun of being creative and building artistic confidence.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=943,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/painting-drawing.jpeg"
+            },
+            {
+                "name": "KIT \u2013 Paper Crafts",
+                "description": "This fun crafts activity gets creative with paper. It\u2019s papercrafts, scrapbooking, or what we call KIT (which stands for \u201ckeep it touch\u201d)! Held in the historic camp building called \u201cGoodwill,\u201d girls make all sorts of things with paper. They start with ornate card stock, patterned paper, stickers, stamps, pens, and embellishments to create a wide variety of papercrafts to send to family or take home.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-paper-crafts.jpeg"
+            },
+            {
+                "name": "Hodge Podge \u2013 Fabric Crafts",
+                "description": "Hodge Podge is a crafts activity that focuses on using all kinds of fabrics and cloth to offer a true \u201chodge podge\u201d of creative projects. Every class is different offering a whole range of fun, surprising craft creations\u2014 tie-dying, making headbands, sock puppets, and pillows, for example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-craft-girls.jpeg"
+            },
+            {
+                "name": "Folklore \u2013 Traditional Crafts",
+                "description": "\u201cFolklore\u201d is the name of the arts and crafts activity at Rockbrook that reproduces traditional crafts popular in this mountain area. Campers learn about some of the craft traditions preserved by the Appalachian culture of this area in North Carolina while at the same time exploring their creativity. Working with simple materials like leather, paints, corn husks, fabrics, thread, soap and wax, the girls follow instructors presentation of different craft projects, each girl making her own example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-folklore-crafts.jpeg"
+            },
+            {
+                "name": "Woodworking",
+                "description": "Woodworking is the process of manipulating wood to make beautiful and useful objects. At Rockbrook, it\u2019s a craft activity where girls are introduced to the skills and concepts that go into making things from wood. Campers of all ages enjoy their time in the Rockbrook Woodshop where they not only learn the basics of wood craftsmanship, but also use wood to create really cool projects.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/10/camp-woodworking-girls.jpeg"
+            },
+            {
+                "name": "Needlecraft",
+                "description": "Needlecraft is another fiberarts craft activity offered at Rockbrook. It focuses on using colorful yarns, strings, threads and other fibers to practice the traditional arts of knitting, crocheting, embroidery and decorative sewing. Campers learn basic stitches and other techniques to make personalized creative projects.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2100,height=900,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/03/needlecraft-camp.jpeg"
+            },
+            {
+                "name": "Camp Pottery",
+                "description": "Pottery is probably the most popular arts and crafts activity at Rockbrook! Like so many arts practiced in this part of North Carolina, there is a long tradition of working with clay at camp\u2014 rolling, pinching, flattening, adding texture, and shaping it into amazing, colorful pottery and ceramic projects. Rockbrook has two pottery studios perfectly set up to learn the basics of pottery at camp and later more advanced techniques.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/girls-pottery-camp.jpeg"
+            },
+            {
+                "name": "Archery",
+                "description": "Archery is a sport where you use a bow to shoot arrows at a target. Historians know it as one of the oldest human activities with arrowheads found that are more than 50,000 years old! Our modern Rockbrook camp girls learn about all aspects of archery, including: safety procedures, specialty equipment, and archery shooting techniques at our archery range.  This is an archery camp where girls have fun learning to shoot!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/03/archery-camper.jpeg"
+            },
+            {
+                "name": "Group Games",
+                "description": "At Rockbrook, we\u2019re all about the thrill of group games! Whether it\u2019s the spirited chaos of outdoor soccer, the heart-pimping action on the volleyball court, or the outright silliness of dodgeball, our gym and grassy sports field are alive with the fun of playing games together.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/sports-game-campers.jpeg"
+            },
+            {
+                "name": "Tennis",
+                "description": "Tennis is a classic sports activity at Rockbrook that has been played at camp since its founding years in the 1920s. It remains a popular daily outdoor activity for the girls, taking place on our green rubico clay courts. Even in the summer, they are a great cool, shaded surface to play.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=877,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/teen-tennis-girls.jpeg"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "The Gymnastics activity at Rockbrook combines an introduction to gymnastics movement, core skills, and friendly instruction designed to help campers improve their flexibility, balance and confidence. The camp gymnastics studio is located on one side our the Rockbrook gym building and includes a runway tumbling mat, full-size balance beam, and stationary high bar.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/11/camp-gymnastics.jpeg"
+            },
+            {
+                "name": "Riflery",
+                "description": "Riflery is a sport that uses a gun with a long barrel, a \u201crifle,\u201d to shoot bullets carefully aimed at a target. With the invention of gunpowder, rifle shooting has been used throughout history by hunters, by soldiers, by Olympic athletes\u2026 and by girls at Rockbrook Camp! Since its founding in 1921, Rockbrook has taught girls the fundamentals of riflery, the important safety procedures, the use and care of the equipment (guns and ammunition), and the various shooting techniques at our rifle range.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/girls-rifle-shooting.jpeg"
+            },
+            {
+                "name": "Swimming",
+                "description": "Summer is time for swimming, and there\u2019s no better place to enjoy a refreshing swim than at summer camp. At Rockbrook, campers can enjoy our mountain lake when they want to play in the water, relax and float, or just cool off after a busy day at camp.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/swimming-camp-girls.jpeg"
+            },
+            {
+                "name": "Yoga",
+                "description": "Yoga is an activity where campers practice physical movements and breathing exercises to increase flexibility, tone, and relaxation. Our studio is in the Hillside Lodge, one of the original camp stone buildings constructed in the 1920s. With colorful mats spread across the beautiful hardwood flooring in front of a 4-foot stone fireplace, we hold our yoga camp classes.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/yoga-camp-girls.jpeg"
+            },
+            {
+                "name": "Camp Archery",
+                "description": "Archery is a sport where you use a bow to shoot arrows at a target. Historians know it as one of the oldest human activities with arrowheads found that are more than 50,000 years old! Our modern Rockbrook camp girls learn about all aspects of archery, including: safety procedures, specialty equipment, and archery shooting techniques at our archery range.  This is an archery camp where girls have fun learning to shoot!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/03/archery-camper.jpeg"
+            },
+            {
+                "name": "Gym Sports and Field Games",
+                "description": "At Rockbrook, we\u2019re all about the thrill of group games! Whether it\u2019s the spirited chaos of outdoor soccer, the heart-pimping action on the volleyball court, or the outright silliness of dodgeball, our gym and grassy sports field are alive with the fun of playing games together.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/sports-game-campers.jpeg"
+            },
+            {
+                "name": "Camp Gymnastics",
+                "description": "The Gymnastics activity at Rockbrook combines an introduction to gymnastics movement, core skills, and friendly instruction designed to help campers improve their flexibility, balance and confidence. The camp gymnastics studio is located on one side our the Rockbrook gym building and includes a runway tumbling mat, full-size balance beam, and stationary high bar.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/11/camp-gymnastics.jpeg"
+            },
+            {
+                "name": "Camp Riflery",
+                "description": "Riflery is a sport that uses a gun with a long barrel, a \u201crifle,\u201d to shoot bullets carefully aimed at a target. With the invention of gunpowder, rifle shooting has been used throughout history by hunters, by soldiers, by Olympic athletes\u2026 and by girls at Rockbrook Camp! Since its founding in 1921, Rockbrook has taught girls the fundamentals of riflery, the important safety procedures, the use and care of the equipment (guns and ammunition), and the various shooting techniques at our rifle range.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/girls-rifle-shooting.jpeg"
+            },
+            {
+                "name": "Camp Swimming",
+                "description": "Summer is time for swimming, and there\u2019s no better place to enjoy a refreshing swim than at summer camp. At Rockbrook, campers can enjoy our mountain lake when they want to play in the water, relax and float, or just cool off after a busy day at camp.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/swimming-camp-girls.jpeg"
+            },
+            {
+                "name": "Camp Tennis",
+                "description": "Tennis is a classic sports activity at Rockbrook that has been played at camp since its founding years in the 1920s. It remains a popular daily outdoor activity for the girls, taking place on our green rubico clay courts. Even in the summer, they are a great cool, shaded surface to play.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=877,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/teen-tennis-girls.jpeg"
+            },
+            {
+                "name": "Camp Yoga",
+                "description": "Yoga is an activity where campers practice physical movements and breathing exercises to increase flexibility, tone, and relaxation. Our studio is in the Hillside Lodge, one of the original camp stone buildings constructed in the 1920s. With colorful mats spread across the beautiful hardwood flooring in front of a 4-foot stone fireplace, we hold our yoga camp classes.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/yoga-camp-girls.jpeg"
+            },
+            {
+                "name": "hiking",
+                "description": "Hiking through the woods, across the mountains, and along the trails\u2014 Life at camp gives you almost endless chances to wander within nature. At Rockbrook, there\u2019s natural beauty around every turn.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/backpack-hiking-kids.jpeg"
+            },
+            {
+                "name": "kayaking and canoeing",
+                "description": "Kayaking and Canoeing are two paddling activities offered at Rockbrook Camp. Girls first learn the basics paddling on our small lake and then move on to more adventurous trips on moving water.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/whitewater-kayaking-girl.jpeg"
+            },
+            {
+                "name": "zip line",
+                "description": "\u2026through the trees on Rockbrook\u2019s own Zip Line Course!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/zipline-course-bridge.jpeg"
+            },
+            {
+                "name": "rock climbing",
+                "description": "Rock climbing on the camp property, pulling up on the indoor wall, scaling the 3-sided challenge tower, bouldering with skilled instructors, rappelling down 200 foot cliffs, and spending all day on rock routes in the nearby National Forest\u2014",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/camp-climbing.jpeg"
+            },
+            {
+                "name": "whitewater rafting",
+                "description": "Rockbrook Camp takes girls whitewater rafting every session, and they absolutely love it! More than any other outdoor adventure activity at camp, rafting is a \u201cmust-do\u201d trip for Rockbrook girls.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/whitewater-adventure.jpeg"
+            },
+            {
+                "name": "Whitewater Rafting",
+                "description": "Rockbrook Camp takes girls whitewater rafting every session, and they absolutely love it! More than any other outdoor adventure activity at camp, rafting is a \u201cmust-do\u201d trip for Rockbrook girls.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/whitewater-adventure.jpeg"
+            },
+            {
+                "name": "Hiking and Backpacking",
+                "description": "Hiking through the woods, across the mountains, and along the trails\u2014 Life at camp gives you almost endless chances to wander within nature. At Rockbrook, there\u2019s natural beauty around every turn.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/backpack-hiking-kids.jpeg"
+            },
+            {
+                "name": "Camp Rock Climbing",
+                "description": "Rock climbing on the camp property, pulling up on the indoor wall, scaling the 3-sided challenge tower, bouldering with skilled instructors, rappelling down 200 foot cliffs, and spending all day on rock routes in the nearby National Forest\u2014",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/camp-climbing.jpeg"
+            },
+            {
+                "name": "Kayaking and Canoeing",
+                "description": "Kayaking and Canoeing are two paddling activities offered at Rockbrook Camp. Girls first learn the basics paddling on our small lake and then move on to more adventurous trips on moving water.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/whitewater-kayaking-girl.jpeg"
+            },
+            {
+                "name": "Zip Lining",
+                "description": "\u2026through the trees on Rockbrook\u2019s own Zip Line Course!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/zipline-course-bridge.jpeg"
+            },
+            {
+                "name": "horseback riding instructor job opportunities",
+                "description": "Get ready to have the time of your life this summer! A summer camp job at Rockbrook provides you with the perfect opportunity to make a difference. You\u2019ll find yourself engaged in meaningful, important work, and you\u2019ll have an absolute blast doing it!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=797,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/working-summer-camp.jpeg"
+            },
+            {
+                "name": "Specialty Horse Camp",
+                "description": "The specialty Rockbrook Horseback Riding Camp is a 1-week overnight horse camp focused on English Hunter/Jumper and Huntseat Equitation riding instruction. In addition to its regular traditional camp sessions that include riding as one of its activities, Rockbrook o\ufb00ers this uniquely focused horse camp for girls who love horses and all things equine.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/horseback-riding-camp.jpeg"
+            },
+            {
+                "name": "Archery",
+                "description": "Archery is a sport where you use a bow to shoot arrows at a target. Historians know it as one of the oldest human activities with arrowheads found that are more than 50,000 years old! Our modern Rockbrook camp girls learn about all aspects of archery, including: safety procedures, specialty equipment, and archery shooting techniques at our archery range.  This is an archery camp where girls have fun learning to shoot!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/03/archery-camper.jpeg"
+            },
+            {
+                "name": "Riflery",
+                "description": "Riflery is a sport that uses a gun with a long barrel, a \u201crifle,\u201d to shoot bullets carefully aimed at a target. With the invention of gunpowder, rifle shooting has been used throughout history by hunters, by soldiers, by Olympic athletes\u2026 and by girls at Rockbrook Camp! Since its founding in 1921, Rockbrook has taught girls the fundamentals of riflery, the important safety procedures, the use and care of the equipment (guns and ammunition), and the various shooting techniques at our rifle range.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/girls-rifle-shooting.jpeg"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "The Gymnastics activity at Rockbrook combines an introduction to gymnastics movement, core skills, and friendly instruction designed to help campers improve their flexibility, balance and confidence. The camp gymnastics studio is located on one side our the Rockbrook gym building and includes a runway tumbling mat, full-size balance beam, and stationary high bar.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/11/camp-gymnastics.jpeg"
+            },
+            {
+                "name": "Gym and Field Sports",
+                "description": "At Rockbrook, we\u2019re all about the thrill of group games! Whether it\u2019s the spirited chaos of outdoor soccer, the heart-pimping action on the volleyball court, or the outright silliness of dodgeball, our gym and grassy sports field are alive with the fun of playing games together.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/sports-game-campers.jpeg"
+            },
+            {
+                "name": "Swimming",
+                "description": "Summer is time for swimming, and there\u2019s no better place to enjoy a refreshing swim than at summer camp. At Rockbrook, campers can enjoy our mountain lake when they want to play in the water, relax and float, or just cool off after a busy day at camp.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/swimming-camp-girls.jpeg"
+            },
+            {
+                "name": "Yoga",
+                "description": "Yoga is an activity where campers practice physical movements and breathing exercises to increase flexibility, tone, and relaxation. Our studio is in the Hillside Lodge, one of the original camp stone buildings constructed in the 1920s. With colorful mats spread across the beautiful hardwood flooring in front of a 4-foot stone fireplace, we hold our yoga camp classes.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/yoga-camp-girls.jpeg"
+            },
+            {
+                "name": "Tennis",
+                "description": "Tennis is a classic sports activity at Rockbrook that has been played at camp since its founding years in the 1920s. It remains a popular daily outdoor activity for the girls, taking place on our green rubico clay courts. Even in the summer, they are a great cool, shaded surface to play.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=877,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/teen-tennis-girls.jpeg"
+            },
+            {
+                "name": "Drama",
+                "description": "Rockbrook gives everyone a chance to be on stage and perform!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/camp-drama-kids.jpeg"
+            },
+            {
+                "name": "Curosty",
+                "description": "Weaving, the creation of textiles or cloth by interlacing materials, is one of the original craft activities taught at Rockbrook. From a beginner\u2019s potholder project to using a full-sized floor loom, there are many types of weaving camp projects that campers can try at Rockbrook.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/camp-weaving-loom.jpeg"
+            },
+            {
+                "name": "Jewelry Making",
+                "description": "Jewelry making is another arts and crafts outlet for the girls at Rockbrook. Held on the porch of the historic hillside stone lodge, campers use wire, colorful string and yarns, plus beads and other sparkly ornaments to make necklaces, bracelets, and fun earrings. Like so many of the arts activities at Rockbrook, Jewelry Making is a wonderful blend of tradition and creativity, community and self expression.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/random-beads.jpeg"
+            },
+            {
+                "name": "Hobby Nook",
+                "description": "\u201cFolklore\u201d is the name of the arts and crafts activity at Rockbrook that reproduces traditional crafts popular in this mountain area. Campers learn about some of the craft traditions preserved by the Appalachian culture of this area in North Carolina while at the same time exploring their creativity. Working with simple materials like leather, paints, corn husks, fabrics, thread, soap and wax, the girls follow instructors presentation of different craft projects, each girl making her own example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-folklore-crafts.jpeg"
+            },
+            {
+                "name": "Painting and Drawing",
+                "description": "Painting and Drawing is the arts and crafts activity at Rockbrook that introduces girls to the techniques, concepts and materials used to paint and draw in different media. Girls learn how to draw and paint! They learn about the importance of observation and imagination. They work with various materials like pencils, pens, oil pastels, charcoal, water colors, and tempera paints. All while exploring the fun of being creative and building artistic confidence.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=943,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/painting-drawing.jpeg"
+            },
+            {
+                "name": "Hodge Podge",
+                "description": "Hodge Podge is a crafts activity that focuses on using all kinds of fabrics and cloth to offer a true \u201chodge podge\u201d of creative projects. Every class is different offering a whole range of fun, surprising craft creations\u2014 tie-dying, making headbands, sock puppets, and pillows, for example.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-craft-girls.jpeg"
+            },
+            {
+                "name": "Pottery",
+                "description": "Pottery is probably the most popular arts and crafts activity at Rockbrook! Like so many arts practiced in this part of North Carolina, there is a long tradition of working with clay at camp\u2014 rolling, pinching, flattening, adding texture, and shaping it into amazing, colorful pottery and ceramic projects. Rockbrook has two pottery studios perfectly set up to learn the basics of pottery at camp and later more advanced techniques.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/01/girls-pottery-camp.jpeg"
+            },
+            {
+                "name": "Scrapbook Paper Crafts",
+                "description": "This fun crafts activity gets creative with paper. It\u2019s papercrafts, scrapbooking, or what we call KIT (which stands for \u201ckeep it touch\u201d)! Held in the historic camp building called \u201cGoodwill,\u201d girls make all sorts of things with paper. They start with ornate card stock, patterned paper, stickers, stamps, pens, and embellishments to create a wide variety of papercrafts to send to family or take home.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2200,height=942,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2024/10/camp-paper-crafts.jpeg"
+            },
+            {
+                "name": "Woodworking",
+                "description": "Woodworking is the process of manipulating wood to make beautiful and useful objects. At Rockbrook, it\u2019s a craft activity where girls are introduced to the skills and concepts that go into making things from wood. Campers of all ages enjoy their time in the Rockbrook Woodshop where they not only learn the basics of wood craftsmanship, but also use wood to create really cool projects.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=2400,height=1028,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2023/10/camp-woodworking-girls.jpeg"
+            },
+            {
+                "name": "Backpacking",
+                "description": "Hiking through the woods, across the mountains, and along the trails\u2014 Life at camp gives you almost endless chances to wander within nature. At Rockbrook, there\u2019s natural beauty around every turn.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/backpack-hiking-kids.jpeg"
+            },
+            {
+                "name": "Whitewater Kayaking and Canoeing",
+                "description": "Kayaking and Canoeing are two paddling activities offered at Rockbrook Camp. Girls first learn the basics paddling on our small lake and then move on to more adventurous trips on moving water.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/12/whitewater-kayaking-girl.jpeg"
+            },
+            {
+                "name": "Whitewater Rafting",
+                "description": "Rockbrook Camp takes girls whitewater rafting every session, and they absolutely love it! More than any other outdoor adventure activity at camp, rafting is a \u201cmust-do\u201d trip for Rockbrook girls.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/whitewater-adventure.jpeg"
+            },
+            {
+                "name": "Rock Climbing",
+                "description": "Rock climbing on the camp property, pulling up on the indoor wall, scaling the 3-sided challenge tower, bouldering with skilled instructors, rappelling down 200 foot cliffs, and spending all day on rock routes in the nearby National Forest\u2014",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/camp-climbing.jpeg"
+            },
+            {
+                "name": "Zipline course",
+                "description": "\u2026through the trees on Rockbrook\u2019s own Zip Line Course!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/01/zipline-course-bridge.jpeg"
+            },
+            {
+                "name": "horseback riding lessons",
+                "description": "Horseback riding at Rockbrook camp combines excellent horses and ponies, qualified instructors, and top-notch facilities, to create an equestrian program where girls can improve their horseback riding skills, deepen their horsemanship knowledge, and have fun riding with friends.",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1840,height=700,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2015/02/girls-horseback-2.jpg"
+            },
+            {
+                "name": "camp activities you can do at home",
+                "description": "Just because you\u2019re not at camp doesn\u2019t mean you can\u2019t have a little camp fun! You can enjoy a few camp activities all year round. On any ordinary Saturday morning, you can invite a couple of friends over, and try one of these out. You\u2019ll be thinking of camp in no time!",
+                "image": "https://www.rockbrookcamp.com/cdn-cgi/image/width=1920,height=822,fit=crop,quality=90,gravity=auto,sharpen=1,metadata=none,format=auto,onerror=redirect/wp-content/uploads/2020/02/camp-girls-relaxed.jpeg"
+            }
+        ]
+    }
+]

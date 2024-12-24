@@ -1,0 +1,438 @@
+[
+    {
+        "name": "Camp Olympia",
+        "url": "https://www.campolympia.com/",
+        "logo": "https://www.campolympia.com/wp-content/uploads/2017/12/camp-logo.png",
+        "description": "In addition to all of our high-energy activity choices, there are also Recreational Hobbies where campers enjoy a slower pace and hanging out with their friends.\u00a0 Several of these activity classes involve hobbies that campers will enjoy throughout their life and share with others.",
+        "location": {
+            "address": "723 Olympia Drive, Trinity, Texas",
+            "zip_code": "75862",
+            "latitude": "31.00012",
+            "longitude": "-95.36892"
+        },
+        "contact": {
+            "mail": "campinfo@campolympia.com",
+            "telephone": "936.594.2541"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/CampOlympia/"
+            },
+            {
+                "twitter": "https://twitter.com/campolympia1968"
+            },
+            {
+                "instagram": "https://www.instagram.com/campolympia1968/"
+            },
+            {
+                "youtube": "https://www.youtube.com/user/mycampolympia"
+            }
+        ],
+        "image_urls": [
+            "https://www.campolympia.com/wp-content/uploads/2024/04/smiling-campers-athenian-spartan-face-paint.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/03/CO-Home-45-Activities.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/03/CO-Homepage-Hero-Update.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/03/CO-Home-Unmatched-Dedication.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/03/CO-Home-Friendships.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2018/03/201410141444200.IMG_5100.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/04/parent-driving-white-suv-and-smiling-young-camper-holding-camp-olympia-flag.jpg",
+            "https://www.campolympia.com/wp-content/uploads/2024/04/five-smiling-camp-counselors-in-blue-athenian-wear.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "Term 1                                Jump Start Summer!",
+                "duration": "14 Days",
+                "cost": "$4,660",
+                "start_date": "June 1",
+                "end_date": "June 14",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            },
+            {
+                "name": "Term 2                                Extra Week!",
+                "duration": "21 Days",
+                "cost": "$5,855",
+                "start_date": "June 15",
+                "end_date": "July 5",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            },
+            {
+                "name": "SPARK Week 2*",
+                "duration": "7 Days",
+                "cost": "$2,325",
+                "start_date": null,
+                "end_date": null,
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 6-9"
+            },
+            {
+                "name": "Term 2B",
+                "duration": "14 Days",
+                "cost": "$4,660",
+                "start_date": "June 22",
+                "end_date": "July 5",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            },
+            {
+                "name": "Term 3                                Extra Week!",
+                "duration": "21 Days",
+                "cost": "$5,855",
+                "start_date": "July 6",
+                "end_date": "July 26",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            },
+            {
+                "name": "SPARK Week 3*",
+                "duration": "7 Days",
+                "cost": "$2,325",
+                "start_date": "July 6",
+                "end_date": "July 12",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 6-9"
+            },
+            {
+                "name": "Term 3B",
+                "duration": "14 Days",
+                "cost": "$4,660",
+                "start_date": "July 13",
+                "end_date": "July 26",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            },
+            {
+                "name": "Term 4                                Finish Summer Strong",
+                "duration": "13 Days",
+                "cost": "$4,325",
+                "start_date": "July 27",
+                "end_date": "August 8",
+                "location": "Trinity, Texas",
+                "deposits": null,
+                "eligible": "Ages 7-16"
+            }
+        ],
+        "categories": [
+            {
+                "name": "SPORTS",
+                "description": "At Camp Olympia, two-week and three-week campers CHOOSE from over 45 different activities , including a wide variety of SPORTS. Camp counselors will teach the sports to help you improve your skills in a fun way. Learn about the sports that Camp Olympia offers to see which activities you would like to choose!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/frisbeebanner-scaled.jpeg"
+            },
+            {
+                "name": "HORSEBACK",
+                "description": "If you love horses, then Olympia\u2019s K.O. Corral and horse arena is the place for you!\u00a0 Riding horses is a tradition at Texas summer camps, and Horseback at Camp Olympia has long been one of the most popular activity offerings.\u00a0 Many campers have ridden their first horse at camp!\u00a0 More confident and experienced riders can participate in the Advanced Horseback class.\u00a0 Several campers selected from each term\u2019s horseback classes participate in our all-camp Rodeo!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/beghorseback-scaled-e1643234381653.jpeg"
+            },
+            {
+                "name": "OUTDOOR ADVENTURE",
+                "description": "Olympia\u2019s Outdoor Adventure classes provide campers with an opportunity to try activities that they may not have ever tried before or do not routinely have access to enjoy.\u00a0 As the Outdoor Adventure name implies, these activity offerings allow campers to experience activities out in nature where they come away with a greater appreciation of the world around them.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_1_2017_IMG_54680-1-e1539382175687.jpg"
+            },
+            {
+                "name": "WATER FUN",
+                "description": "At Camp Olympia, two-week and three-week campers CHOOSE from over 45 different activities , including a wide variety of WATER FUN activities. Camp Olympia offers several water activities in its pool in addition to many lake activities due to its location on Lake Livingston.\u00a0 Each camper will have the opportunity to participate in camp favorites: ROCKETING, BLOBBING, PADDLEBOARDING, SLIDING, WATER WARS and FREE SWIM.\u00a0 Other water fun activities listed are options to choose for your individualized activity schedule.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/D4A_0863-e1540421627530.jpg"
+            },
+            {
+                "name": "ARTS",
+                "description": "Arts activities are a great way for campers to show their creativity and individual talents.\u00a0 Whether creating something new or performing in front of everyone, campers get to leave their mark in our Arts classes!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/arts-e1539382900359.jpg"
+            },
+            {
+                "name": "RECREATIONAL HOBBIES",
+                "description": "In addition to all of our high-energy activity choices, there are also Recreational Hobbies where campers enjoy a slower pace and hanging out with their friends.\u00a0 Several of these activity classes involve hobbies that campers will enjoy throughout their life and share with others.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2024/05/IMG_8693.2-scaled-e1715637481466.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Baseball",
+                "description": "Baseball is as popular as ever! Olympia\u2019s beautiful Baseball Park, named Ferguson Field, is second to none. Campers can hit a home run over the huge wall in left field or into Caney Creek in right field! In addition to baseball class, campers enjoy participating in our Home Run Derbies and Speed Softball games on this field.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/baseball-1-e1643386369100.jpeg"
+            },
+            {
+                "name": "Basketball",
+                "description": "Camp Olympia has 2 covered basketball courts for double the fun! One court is a covered court at the O\u2019Dome, and the second court is a full-size court next to the tennis courts. In addition to basketball activity class, campers enjoy playing basketball during Spartan/Athenian and love participating in a game of \u201cknockout\u201d during breakout.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/basketball-scaled.jpeg"
+            },
+            {
+                "name": "Cheerleading",
+                "description": "At Camp Olympia, cheerleading is A-W-E-S-O-M-E! Campers learn new cheers and practice in our O\u2019Dome. Campers in our cheerleading classes may choose to participate in our Talent Show during the last week of camp.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/cheer-scaled-e1643387287721.jpeg"
+            },
+            {
+                "name": "Football",
+                "description": "Football has a long history at Camp Olympia and is a fun activity for both boys and girls. Olympia\u2019s owners, Chris Gilbert and Corby Robertson, Jr., were both All-American football players at the University of Texas. Both Chris and Corby taught football to Olympia campers in camp\u2019s initial years. Campers will work on their football skills and play flag football games.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_2_2018_5065-e1539799355857.jpg"
+            },
+            {
+                "name": "Frisbee",
+                "description": "Frisbee is fun for all ages. Campers learn how to properly throw a frisbee and learn the strategies of playing Ultimate Frisbee. Campers also have the opportunity to play Frisbee Golf !",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/frisbee-scaled-e1643386270639.jpeg"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "Do you like to tumble? Gymnastics at Olympia includes learning basic tumbling as well as polishing more advanced tumbling skills. Gymnastics takes place in the air-conditioned Top of the O\u2019Dome.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_1_2017_IMG_0136-e1539800503563.jpg"
+            },
+            {
+                "name": "Golf Class",
+                "description": "Golfers in golf class enjoy the use of the driving range, practice putting greens and par 3 course at beautiful Whispering Pines Golf Club, a nationally acclaimed golf course. Campers will learn from PGA professionals the basics of the game as well as the rules and etiquette of course play. Interested in more intense golf instruction?\u00a0 Click here to learn more about the Camp Olympia Junior Golf Academy",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/golfputting-scaled-e1643387323588.jpeg"
+            },
+            {
+                "name": "Junior Golf Academy",
+                "description": "At our Junior Golf Academy, campers of all skill levels receive daily instruction from PGA professionals at the nationally recognized Whispering Pines Golf Club.\u00a0 In addition to utilizing the practice facility, campers will also have multiple opportunities to play the Whispering Pines golf course.\u00a0 Click here to learn more about the Camp Olympia Junior Golf Academy.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/jrgolf-scaled-e1643387349299.jpeg"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "Pick up your sticks and let\u2019s play! Both girls and boys have fun playing lacrosse at Camp Olympia.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/lacrosse-scaled.jpeg"
+            },
+            {
+                "name": "O-Sports",
+                "description": "O-Sports class has all of Olympia\u2019s favorite games in one O-Mazing class! Games, such as O-O, O-ball, Sky-9, Koob and Spike-O, are played and new techniques and strategies for each are taught. Get ready to have a Ton-O\u2019-Fun!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/oball-scaled-e1643387412765.jpeg"
+            },
+            {
+                "name": "Soccer",
+                "description": "She shoots, she scores! Campers of all ages can signup for soccer class. Stay in shape for your home soccer team or learn to play for the first time.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/soccer-scaled-e1643386623256.jpeg"
+            },
+            {
+                "name": "Softball",
+                "description": "Softball is a fun activity for campers of all ages. Fun hitting and fielding drills help campers learn new skills and polish existing ones. Olympia has its own softball field for play.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/softball-scaled-e1643386655753.jpeg"
+            },
+            {
+                "name": "Tennis",
+                "description": "Game, Set, Match! Whether playing singles or doubles, campers will receive great tennis instruction for learning new skills and enhancing current ones. Olympia has two regulation-size tennis courts that are covered to keep the sun out of our eyes!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/tennisclass-scaled-e1643386675624.jpeg"
+            },
+            {
+                "name": "Track and Field",
+                "description": "Track and Field is a great activity for staying in shape for school athletics or for general fitness. Campers enjoy the variety of elements in track and field class from the long jump to hurdles to sprints.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/trackfield-scaled-e1643386694206.jpeg"
+            },
+            {
+                "name": "Volleyball",
+                "description": "Bump, set, SPIKE! Campers of all ages enjoy playing volleyball on our sand volleyball court and covered hard court. Campers learn new skills and strategy of the game.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/volleyball-scaled-e1643387527617.jpeg"
+            },
+            {
+                "name": "Weightlifting",
+                "description": "Weightlifting is a great way to stay in shape for school athletics and to promote physical fitness. Campers in Weightlifting class learn the proper techniques for lifting weights in a safe manner.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/weightlifting-scaled.jpeg"
+            },
+            {
+                "name": "Horseback",
+                "description": "Horseback is one of the activities that campers select most often when choosing their activities. In horseback class, campers spend time learning about horses, grooming, and learning the basics of riding.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/L0oTwVZw-scaled.jpeg"
+            },
+            {
+                "name": "Advanced Horseback",
+                "description": "Advanced Horseback class is for riders who have received an \u201cadvanced\u201d rating in a prior horseback class or have demonstrated confidence and advanced skills in riding a horse. Campers in Advanced Horseback will ride in the arena as possibly on trails through camp. Our Advanced Horseback campers are encouraged to participate in one of our Rodeo events, such as pole bending. Our Rodeo King or Queen is chosen from our Advanced Horseback class.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/advancedhorseback-1-scaled.jpeg"
+            },
+            {
+                "name": "Archery",
+                "description": "See if you can hit the bull\u2019s-eye! Archery is an activity that has been available at camp since the beginning, with many campers shooting their first bow and arrow at Olympia. Our Archery Range, Sherwood Forest, has two lines so many campers can enjoy this activity at once.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/archeryy-scaled.jpeg"
+            },
+            {
+                "name": "Biking",
+                "description": "Take a stroll through camp in biking class! Campers can take a leisurely ride on the roads and trails of camp. It is a wonderful way to see camp while getting great exercise! Through the years, many campers have learned to ride a bike for the first time at Camp Olympia.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/bikinghelp-scaled.jpeg"
+            },
+            {
+                "name": "Fishing",
+                "description": "Fishing is a great, relaxing activity at Olympia. Campers fish in stocked ponds out on the golf course as well as near the heart of camp. They use a variety of baits with the hopes of catching the biggest fish.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/fish-scaled.jpeg"
+            },
+            {
+                "name": "Challenge Course",
+                "description": "Campers are flying high at Olympia\u2019s Challenge Course! Campers can challenge themselves on high elements such as the climbing wall, two-person zip line, pamper poles and giant 3-person swing! The challenge course also includes low elements that promote teamwork, cooperation and responsibility. Challenge Course class is for our oldest campers, ages 13-16, but all campers have the opportunity to use some elements of the challenge course while at camp.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/zipline-1-scaled.jpeg"
+            },
+            {
+                "name": "Giant Swing",
+                "description": "Get ready to soar through the trees! It doesn\u2019t get much more exciting than the Giant Swing! The swing is over 50 feet tall and is an awesome adventure that allows three people to swing at once. Campers (48\u2033 and above) will have a chance to swing during Breakout, in addition to those campers taking Challenge Course class.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/01/gaint_swim.jpg"
+            },
+            {
+                "name": "Intermediate Adventure",
+                "description": "Are you 10-12 years old and interested in some adventure? Intermediate Adventure class includes fun and exciting team-building activities including use of our low elements at our Challenge Course. This is one of our co-ed classes.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_4_2017_IMG_0881-e1540414710742.jpg"
+            },
+            {
+                "name": "J-Journeys",
+                "description": "J-Journeys is a class just for our campers ages 9 and under where they have an awesome outdoor adventure.\u00a0 Campers will trek through the piney woods, do scavenger hunts around camp, and learn about the great outdoors.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/fortgirls-scaled.jpeg"
+            },
+            {
+                "name": "Rockwall Climbing",
+                "description": "Climb high! All campers will have the opportunity to climb on the rock wall, in addition to campers in the Challenge Course, Intermediate Adventure, and J-Journeys classes.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/rockwall-scaled-e1643237453646.jpeg"
+            },
+            {
+                "name": "Outdoor Skills",
+                "description": "Outdoor Skills is a class developed specifically for 13-15 year old campers. Campers may experience using a compass, setting up camp, environmental education, fire building, rope tying, trapping, canoeing, fishing,\u00a0 and skeet shooting.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_4_2017_IMG_0348-e1540414772775.jpg"
+            },
+            {
+                "name": "Riflery",
+                "description": "Learn a lifetime skill in riflery! Campers enjoy learning about rifles in the secured environment of our riflery range. Safety is first at Camp Olympia, so counselors teach safety procedures and safety equipment is provided. Many campers are excited to show their bull\u2019s-eyes to counselors and friends!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/girlriflery-scaled.jpeg"
+            },
+            {
+                "name": "Blobbing",
+                "description": "A long-time tradition at Olympia, blobbing is definitely a highlight for many campers! Blobbing is jumping from a platform and landing on a large inflatable (called a Blob), which is floating on the lake and anchored in position. At camp, we have two blobs for double the fun!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/blobbing-scaled.jpeg"
+            },
+            {
+                "name": "Canoeing",
+                "description": "In canoeing class, campers enjoy paddling out on Lake Livingston. Canoeing is a great team exercise, with campers learning to work together to row. In addition to standard sized canoes, Olympia has two 29\u2032 War Canoes that can hold entire cabins at once!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/canoeing-1-scaled-e1643215868253.jpeg"
+            },
+            {
+                "name": "Diving",
+                "description": "Make a splash in our pool! Learn a new dive! In diving class, campers have the opportunity to dive off our diving board and our platform at the pool. Many campers have learned to dive for the first time at Olympia!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_3_2017_IMG_1727-e1540411526178.jpg"
+            },
+            {
+                "name": "Kayaking",
+                "description": "Kayaking was introduced at Olympia in 2005 and has become one of our most popular activities. Kayakers enjoy paddling together on Lake Livingston.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/kayaking-scaled-e1643215889591.jpeg"
+            },
+            {
+                "name": "Rocketing",
+                "description": "Campers LOVE rocketing! Rockets, which are large inflatables pulled behind the boats, can hold up to 10 people at a time, so campers get to share in the excitement of this lake activity together. Hang on for an exciting ride!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/rocketing-scaled.jpeg"
+            },
+            {
+                "name": "Sailing",
+                "description": "See camp by sailboat! Campers love sailing from our Point on Lake Livingston. In sailing class, campers are taught the parts of the boats, various knots, and sailing techniques. It is a great time for campers to relax and bond together out on the water. Plus, Paddleboarding has been added to sailing class for\u00a0 another fun experience on the lake.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/5wgXldjg-scaled-e1643215911688.jpeg"
+            },
+            {
+                "name": "Free Swim",
+                "description": "Free Swim at the Camp Olympia pool is the perfect time to cool off and have fun!\u00a0 The pool has many fun elements including a diving board, water slide, climbing wall, platform and trolley!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/pool-scaled-e1643215932876.jpeg"
+            },
+            {
+                "name": "Snorkeling",
+                "description": "Snorkeling at the pool is fun and refreshing. Campers learn about snorkeling equipment and use it to find \u201ctreasures\u201d in the pool.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/snorkeling-e1643390836938.jpeg"
+            },
+            {
+                "name": "Swimming Lessons",
+                "description": "Olympia believes in the importance of every campers being a capable swimmer, and as a result, swimming lessons are required for campers ages 9 and under.\u00a0 Lessons are optional for campers 10-16. Campers learn swim strokes and pool safety.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/swimmer-scaled-e1643215972743.jpeg"
+            },
+            {
+                "name": "Paddle Boarding",
+                "description": "Paddle boarding is a leisurely way to enjoy life out on the lake.\u00a0 Campers who take sailing as an activity will have the opportunity to paddle board, but others will have the opportunity to paddle board at some of our special camp events at the lake.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/paddleboarding-scaled-e1643215996722.jpeg"
+            },
+            {
+                "name": "Water Sliding",
+                "description": "Camp Olympia has two thrilling slides, one at our pool and one on our lakefront.\u00a0 Our 100 foot water slide at The Point is a highlight for many campers as they slide from the top of the tall spiral staircase into the lake!\u00a0 Campers also enjoy the long slide at the pool during Free Swim and special programs.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/slide-scaled-e1643216017728.jpeg"
+            },
+            {
+                "name": "Wakeboarding",
+                "description": "Wakeboarding has quickly become the most popular activity at Camp Olympia. With Olympia\u2019s 9 competition ski boats, campers of all skill levels have a blast Wakeboarding on Lake Livingston. In Wakeboarding class, campers also have the opportunity to slalom, water ski, and kneeboard.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/wakeboard-scaled-e1643216034158.jpeg"
+            },
+            {
+                "name": "Water Skiing",
+                "description": "Through the years, Water skiing has been a favorite activity with hundreds of campers learning how to Water ski for the first time at Olympia. Olympia utilizes 9 competition ski boats to teach campers the proper techniques of skiing. In Water ski class, once two skis are mastered, campers will also receive instruction on slaloming. Additionally, campers may also have the opportunity to try wakeboarding and kneeboarding during Water ski class.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/waterski-scaled-e1643216051614.jpeg"
+            },
+            {
+                "name": "Water Wars",
+                "description": "Camp Olympia has its own water balloon battle stations called Water Wars!\u00a0 Campers can pair up to shoot water balloons at their opponents or aim for the target to splash water on them!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/waterwars-scaled-e1643215807481.jpeg"
+            },
+            {
+                "name": "Arts & Crafts",
+                "description": "\u201cArts and Crafts is where it\u2019s at!\u201d This long-time Olympia expression derives from the fun that campers have in Arts & Crafts class. Campers enjoy the air-conditioned Arts & Crafts room as they create a variety of items that they take home at the end of the term.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2024/05/IMG_4246-scaled-e1715636154259.jpg"
+            },
+            {
+                "name": "Dance",
+                "description": "Learn a new dance routine in our dance class, held in the air-conditioned Top of the O\u2019Dome. Many of our dance classes perform their new dance in our Talent Show the last week of camp.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_4_2017_IMG_8034-e1539809958231.jpg"
+            },
+            {
+                "name": "Drama",
+                "description": "During drama class, campers create and perform their own skits. Campers enjoy dressing up in costumes for their skits! Some of our campers choose to perform their skits in our Talent Show.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/IMG_2803term1-e1539810142790.jpg"
+            },
+            {
+                "name": "Photo-Journalism",
+                "description": "In Photo-Journalism, campers get to experience digital photography, journalism, and newsletter editing. Each class will produce its own newsletter available to campers, staff and parents at the end of the term.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/photojournalism-scaled-e1643389393489.jpeg"
+            },
+            {
+                "name": "Video Production",
+                "description": "Video Production has been a popular Arts class! In this class, campers have the opportunity to create their own movie from start to finish. They write, perform, film and edit their short movies! Look out Hollywood!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/photojournalism2-scaled-e1643389433802.jpeg"
+            },
+            {
+                "name": "Workshop",
+                "description": "In Workshop class, campers learn how to use woodworking and leather-working tools to create something special to take home from camp.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/workshop-1-scaled.jpeg"
+            },
+            {
+                "name": "Board Games",
+                "description": "Board games is a great activity for campers to relax, have fun with friends and learn some strategy!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/boardgames.jpeg"
+            },
+            {
+                "name": "Ping Pong",
+                "description": "Campers have fun competing with each other at ping pong. It is popular recreational activity for campers of all ages.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/pingpong-scaled.jpeg"
+            },
+            {
+                "name": "Puppies in Training",
+                "description": "Each summer, camp adopts three puppies!\u00a0 Campers learn how to care for and train them.\u00a0 Campers spend time taking the puppies on walks, giving them baths, teaching them commands and loving on them!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/puppy-scaled.jpeg"
+            },
+            {
+                "name": "Mini Golf",
+                "description": "Get ready for some putting at the 9-hole Li\u2019l Pines mini golf course, complete with a fountain and bridge!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/minigolf-scaled-e1715636299322.jpeg"
+            },
+            {
+                "name": "Jumping Pad",
+                "description": "How high can you jump? Our Jumping Pad is like a giant inflatable! It is big enough that up to 30 people can jump on it at the same time, so entire cabins can have fun on it together.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2022/01/jump-pad-scaled.jpeg"
+            },
+            {
+                "name": "Aerobics/Yoga",
+                "description": "Aerobics is a great way to continue an exercise schedule or learn new aerobic techniques. While most aerobics classes are in our air-conditioned Top of the O\u2019Dome, some days the class may choose to do water aerobics at the pool or Yoga at the lake.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/yoga2-e1539794188423.jpg"
+            },
+            {
+                "name": "Charm",
+                "description": "Charm is a fun activity for campers of all ages. In this activity, campers may learn some skills such as braiding hair, painting nails, or how to write encouragement or thank you notes.",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/TERM_2_2018_1934-e1539808173196.jpg"
+            },
+            {
+                "name": "O-O",
+                "description": "\u201cO-O\u201d, also known as \u201cGaga Ball\u201d, is a camp favorite for many!\u00a0 \u00a0It is a version of dodgeball played in an octogon pit where players try to tag another player with the ball below the knees.\u00a0 The O-O pits at camp are always full!",
+                "image": "https://www.campolympia.com/wp-content/uploads/2018/10/Term1_2018-0998-e1539802171286.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,465 @@
+[
+    {
+        "name": "Amplify Sleep Away Camp",
+        "url": "https://amplifyrocks.org/",
+        "logo": "https://amplifyrocks.org/wp-content/uploads/2022/12/logo.svg",
+        "description": [
+            "Experience the best in sleep away and day camps with Amplifyan award-winning and American Camp Association Accredited music and arts program! Nestled in the breathtaking Topa Topa Mountains of Ojai, CA, just 1.5 hours from the vibrant city of Los Angeles, Amplify beckons campers from across the U.S. and around the world.\n\u00a0\nOur affordable 2-week sessions, extendable up to 6 weeks, offer a transformative journey for campers to delve into their passions. Choose from a range of creative focuses, guided by top-notch instructors in music, photography, musical theater, music production, skateboarding, and more.\n\u00a0\nAt Amplify, all staff undergo a rigorous hiring process that includes background checks, live scans, both individual and group interviews, reference checks, a 10-day on-site training, and over 15 hours of pre-camp online training. They hold certifications in Mental Health First Aid, CPR/First Aid, \u00a0among others, and are primarily K-12 teachers or students from esteemed institutions like Berklee School of Music and UCLA.\n\u00a0\nThe adventure doesn\u2019t stop there. Campers customize their experience with daily elective activities alongside their immersive majors and minors. They can explore options like screen printing, DJing, swimming, beach days, surfing, karaoke, dance parties under the stars, and much more. Amplify ensures an unforgettable summer, fostering creativity, a deep sense of belonging and friendship in a secure, supportive, and age-appropriate environment. Join us for a summer like no other!",
+            "Not every youth is ready for sleepaway camp, and we totally get that. But here at AMPLIFY, we believe everyone deserves to soak in the fun, creativity, and empowerment we offer! In our day camp option, campers in grades 3-8 get to enjoy all the amazing programs we have in store for them from 9 am to 5 pm, Monday through Friday, lunch included! They\u2019ll enjoy immersive creative instruction, engaging elective activities, beach days, the grand final showcase, and a whole lot more. The AMPLIFY experience is tailored for everyone, making unforgettable summer memories without the overnight stay."
+        ],
+        "location": {
+            "address": "8585 N Ojai Santa Paula Rd,  Ojai,  CA",
+            "zip_code": "93023",
+            "latitude": "34.52101",
+            "longitude": "-119.24767"
+        },
+        "contact": {
+            "mail": "jen@amplifyartsproject.org",
+            "telephone": "805-699-5247"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/amplifysleepawaycamp"
+            },
+            {
+                "instagram": "https://www.instagram.com/amplify_arts_project/"
+            },
+            {
+                "tiktok": "https://www.tiktok.com/@amplify_arts_project"
+            }
+        ],
+        "image_urls": [
+            "https://amplifyrocks.org/wp-content/uploads/2023/03/29197b00d23a8409648cba0df1dbd3da.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/05/72589009_2486530824794370_7430602685495115776_n-e1695947635673.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/02/homepage1.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2024/08/IMG_1610-scaled.jpeg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/01/ScreenShot2020-04-11at3.01.00PM-1-e1678717229167.png",
+            "https://amplifyrocks.org/wp-content/uploads/2023/01/GRSB_SESSION1_2021_804-scaled.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/01/GRSB_SESSION2_2021_354-scaled.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/03/2023-03-16_094235.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/02/week2-1-72.jpg",
+            "https://amplifyrocks.org/wp-content/uploads/2023/04/Feet_W_Designs.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "2WK Session Sleep Away Camp",
+                "start_date": "June 22",
+                "end_date": "July 5",
+                "eligible": "4th-12th",
+                "cost": "$4,700  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Session Sleep Away Camp",
+                "start_date": "July 6",
+                "end_date": "19",
+                "eligible": "4th-12th",
+                "cost": "$4,700  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Session Sleep Away Camp",
+                "start_date": "July 20",
+                "end_date": "Aug 2",
+                "eligible": "4th-12th",
+                "cost": "$4,700  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "4WK Session Sleep Away Camp",
+                "start_date": "June 22",
+                "end_date": "July 19",
+                "eligible": "4th-12th",
+                "cost": "$9,150  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "4WK Session Sleep Away Camp",
+                "start_date": "July 6",
+                "end_date": "Aug 2",
+                "eligible": "4th-12th",
+                "cost": "$9,150  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "6WK Session Sleep Away Camp",
+                "start_date": "June 22",
+                "end_date": "Aug 2",
+                "eligible": "4th-12th",
+                "cost": "$13,600  Space Still Available",
+                "deposits": "$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "4WK Leader In Training Program",
+                "start_date": "June 22",
+                "end_date": "July 19",
+                "eligible": "CAMPER GRADES (ENTERING):10th-12th",
+                "cost": "$9800",
+                "deposits": "NON-REFUNDABLE DEPOSIT:$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "4WK Leader In Training Program",
+                "start_date": "July 6",
+                "end_date": "Aug 2",
+                "eligible": "CAMPER GRADES (ENTERING):10th-12th",
+                "cost": "$9800",
+                "deposits": "NON-REFUNDABLE DEPOSIT:$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "4WK Leader In Training Program",
+                "start_date": "June 22",
+                "end_date": "July 19, 2WK Traditional Camp July 19",
+                "eligible": "CAMPER GRADES (ENTERING):10th-12th",
+                "cost": "$13,900",
+                "deposits": "NON-REFUNDABLE DEPOSIT:$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Traditional Camp",
+                "start_date": "June 22",
+                "end_date": "July 19, 4WK Leader In Training Program",
+                "eligible": "CAMPER GRADES (ENTERING):10th-12th",
+                "cost": "$13,900",
+                "deposits": "NON-REFUNDABLE DEPOSIT:$500",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Session 1",
+                "start_date": "Jun 23",
+                "end_date": "July 4",
+                "eligible": "3rd-8th",
+                "cost": "$800  Space Still Available",
+                "deposits": "$150",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Session 2",
+                "start_date": "July 7",
+                "end_date": "18",
+                "eligible": "3rd-8th",
+                "cost": "$800  Space Still Available",
+                "deposits": "$150",
+                "duration": "null",
+                "location": "null"
+            },
+            {
+                "name": "2WK Session 3",
+                "start_date": "July 21",
+                "end_date": "Aug 1",
+                "eligible": "3rd-8th",
+                "cost": "$800  Space Still Available",
+                "deposits": "$150",
+                "duration": "null",
+                "location": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Immersive Majors",
+                "description": "Before arriving, campers choose their creative focus (immersive) for their camp sessions. They also choose a minor. Camp days are split between classes in chosen immersives, minors and electives under guidance of expert staff and alongside rad, collaborative groups of immersive co-campers. Then every session closes with a huge FINAL SHOWCASE: often the highlight of the whole summer!",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2024/08/IMG_1713-1-768x512.jpeg"
+            },
+            {
+                "name": "Minors",
+                "description": "At camp, campers can now sign up for our new Minors program, where they can choose a secondary focus like music production and creating their own demo, podcasting, or skateboarding. Minors provide additional learning opportunities but dont replace time spent in their immersive Majors or Electives.",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2024/02/IMG_0012-768x512.jpg"
+            },
+            {
+                "name": "Elective Activities",
+                "description": "Campers follow their passions and supplement their immersive with daily fun elective activities in a choose-your-own-adventure format. Amplify has dozens of electives to choose from each day, like designing and screen printing your own swag. We are masters of creative programming and can work with any camper no matter their interest or skill level is.",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2023/01/GRSB_SESSION1_2021_728-scaled-e1674665551698-1-768x1031.jpg"
+            },
+            {
+                "name": "Creative Arts",
+                "description": "Camp is a place to try something new, so we offer a wide range of activities that are not found in typical school programs. Our ever-changing roster of activities teaches campers basic skills and advanced techniques thanks to fun, encouraging, and endlessly creative counselors. For example, campers may learn screen printing, fine art (e.g., oil/acrylic painting, charcoal drawing), candle making, music HERstory, DJing, even experimenting with soldering to build microphones! creative-arts Our passionate instructors teach and inspire campers to discover new talents and follow their creative interests. Whether enjoying a hobby, relaxing with friends, developing a new technical or life skill, or just having fun, Amplify is all about the power of the creative arts!",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2023/01/047A0908-1200x800.jpg"
+            },
+            {
+                "name": "Nature Adventures",
+                "description": "We love to make music and art, but our natural world is full of inspiration, challenges, fun, excitement and what we like to call \u2018brave space\u2019. Campers can enjoy activities around the beautiful campus, such as basking in the \u2018Pink Moment\u2019 on a hike through the rolling hills surrounding camp, or head off campus to play at the beach, zip lining on an island, or white water rafting a pristine mountain river. Heading outdoors for an activity in nature is a healthy way to build resilience, bond with friends, and develop connection with our world.",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2023/01/GRSB_SESSION1_2021_339-3-e1675454594502-1200x708.jpeg"
+            },
+            {
+                "name": "Water Adventures",
+                "description": "Campers who love the water can jump in the Olympic-sized swimming pool for free time or organized games, go surfing, white water rafting, dunk under the waves at Santa Claus Lane, or even just read a book seaside while lounging in the shade. Our certified lifeguards are always on deck at the gated pool and all water related activities, and professional surf instructors from Surf Happens can get everyone standing up on a wave.",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2023/01/ScreenShot2020-04-11at3.01.00PM-1-e1678717229167-1200x770.png"
+            },
+            {
+                "name": "Off-Site Trips",
+                "description": "Each session we plan at least one trip to the beach and also go on lots of other off campus trips. Past trips have included Skating Plus, Golf N Stuff, Escape Rooms, Kayaking, Off The Wall Fun Center, Lake Casitas Water Park, trips to downtown Ojai, bowling and more. The Legends camp out takes place at a local beach campground in Ventura where campers grades 9-12 enjoy campfire cooked meals, s\u2019mores, late night music, and bonding around the fire before being lulled to sleep by nature\u2019s original noise machine, the ocean. LITs rite of passage journey takes place on an overnight camping trip full of adventure. Intersession trips change each year. Pervious years activities included ziplining through the mountains of Catalina Island, rafting the Kern River, and stay and play weekends where we plan super fun off campus trips but sleep on campus. Campers get to vote on what weekend extravaganza we go on during the application process. All summer long, we\u2019re kickin\u2019 it at the beach, hitting up our local escape rooms and roller rinks, kayaking, rock climbing, and so much more. Plus there\u2019s our world-famous FIELD DAY, a \u201cfree choice\u201d day of special electives, shuttles into town or the beach, pool games, movie marathons, trying to tag Gracie in laser tag, karaoke, root beer floats, and so much more! There are always lots of things to choose from to make sure kids always have options that they enjoy.",
+                "image": "https://amplifyrocks.org/wp-content/uploads/2023/01/catalina2-600x338.jpeg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Guitar",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Vocals",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Bass",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Drums",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Keys",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Photography",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Musical Theater",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Rock Band Intensive",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Syryn Records High School Internship",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Leader in Training Program",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Live Audio Engineering",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stage Tech",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "SONGWRITING & MUSIC PRODUCTION: CREATE YOUR OWN DEMO",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "journalism",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Songwriting for Musical Theatre",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Learn to DJ",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Podcasting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fine Arts",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Film Making",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "skateboarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fashion Design",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "music video making",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Star gazing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Hiking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Surfing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Rock climbing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Snorkeling",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Zip lining",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Camping",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "High ropes course",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "White water rafting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Plant Identification",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sounds in Nature",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Campfire Cookout",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Beach Days",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Dancing Under the Stars",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Surfing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Pool Party with DJ",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Pool Games",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Pool and Ocean Swimming",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Snorkeling",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "White Water Rafting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tidepools",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sprinkler Games",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lake Casitas Water Park",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Free-choice Field Day",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fun at local beaches",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lazy river, ice cream in hand",
+                "description": "null",
+                "image": "null"
+            }
+        ]
+    }
+]

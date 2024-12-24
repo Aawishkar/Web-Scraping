@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Camp Quest",
+        "url": "https://campquest.org/",
+        "logo": "https://campquest.org/wp-content/uploads/2024/12/Camp-Quest-logo-2024-square-white-1-120x120.png",
+        "description": "Camp Quest programs are hosted at camp facilities which offer a variety of outdoor recreation options and give campers an immersive experience in nature. Activities vary by location and may include hiking, fishing, canoeing, rock wall climbing, swimming, zip lines, and more. Campers spend time observing the natural world, sharing their discoveries, and working together to learn about the natural sciences, environmental responsibility, and outdoor and wilderness safety.",
+        "location": {
+            "address": "PO Box 449 Pickens, SC",
+            "zip_code": "29671",
+            "latitude": "34.93492",
+            "longitude": "-82.71331"
+        },
+        "contact": {
+            "mail": "camp@campquest.org",
+            "telephone": "(540) 209-7978"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/CampQuest/"
+            },
+            {
+                "instagram": "https://www.instagram.com/campquest/"
+            },
+            {
+                "twitter": "https://twitter.com/CampQuest"
+            }
+        ],
+        "image_urls": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-14847046430_49e1d43c2b_o-300x200.jpg",
+        "sessions": [
+            {
+                "name": "Minnesota Camp Week 1",
+                "start_date": "July 14th",
+                "end_date": "20th",
+                "location": "Mound, MN",
+                "cost": "$735",
+                "eligible": "8-17",
+                "duration": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Minnesota Camp Week 2",
+                "start_date": "July 21st",
+                "end_date": "27th",
+                "location": "Mound, MN",
+                "cost": "$735",
+                "eligible": "8-17",
+                "duration": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Iowa Camp",
+                "start_date": "August 4th",
+                "end_date": "10th",
+                "location": "Boone, IA",
+                "cost": "$735",
+                "eligible": "8-17",
+                "duration": "null",
+                "deposits": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "HUMANIST ETHICS",
+                "description": "Humanism is a progressive philosophy of life that, without theism or other supernatural beliefs, affirms our ability and responsibility to lead ethical lives of personal fulfillment that aspire to the greater good. Camp activities that focus on humanist ethics aim to familiarize campers with this worldview, which promotes altruism, peace and social justice, community service, and personal responsibility for helping others and caring for our planet.",
+                "image": "https://campquest.org/wp-content/uploads/2021/04/DSC_0041-300x199.jpg"
+            },
+            {
+                "name": "CRITICAL THINKING & SCIENTIFIC INQUIRY",
+                "description": "We learn through observing the world around usand its a big world! Experimenting, gathering information, and testing that information for accuracy, truthfulness, and utility is the basis for developing critical thinking skills. At Camp Quest, we encourage campers to ask why?, to dig into some of life and sciences most challenging questions, and to use reason and empiricism when tackling problems.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-6563859405_d447514ced_o-1-300x200.jpg"
+            },
+            {
+                "name": "FREETHOUGHT HERITAGE & WORLDVIEW AWARENESS",
+                "description": "Freethought Heritage and Worldview Awareness activities, including our signature Famous Freethinkers program, encourage cultural literacy and expose campers to a variety of belief systems and religions found throughout the world. Camp Quest promotes open-mindedness, choice, empathy, and respect for religious, philosophical, and cultural diversity while also modeling appropriate and respectful discussion and critique of belief systems.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-48115018498_6805b031de_o-300x200.jpg"
+            },
+            {
+                "name": "NATURE APPRECIATION & RECREATIONAL ACTIVITIES",
+                "description": "Camp Quest programs are hosted at camp facilities which offer a variety of outdoor recreation options and give campers an immersive experience in nature. Activities vary by location and may include hiking, fishing, canoeing, rock wall climbing, swimming, zip lines, and more. Campers spend time observing the natural world, sharing their discoveries, and working together to learn about the natural sciences, environmental responsibility, and outdoor and wilderness safety.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-14847046430_49e1d43c2b_o-300x200.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "FAMOUS FREETHINKERS",
+                "description": "Throughout history, some of the most influential individuals who have contributed to radical advances in scientific knowledge, cultural development, and human progress have also been people whose beliefs and worldviews have differed from traditional systems of thought. We introduce campers to these freethought heroes in our Famous Freethinkers program. Campers learn about the lives of these famous individuals, from Susan B. Anthony and Charles Darwin to Meryl Streep and Daniel Radcliffe. Freethought is a philosophical viewpoint which holds that positions regarding truth should be formed on the basis of logic, reason, and empiricism, rather than authority, tradition, revelation, or dogma. Campers learn that freethinkers are a diverse group, including people of different ages, genders, races, ethnicities, sexual orientations, as well as people from various historical time periods, occupations, economic backgrounds, nationalities, and cultures.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-20140707-_MG_3428-300x200.jpg"
+            },
+            {
+                "name": "SOCRATES CAF",
+                "description": "We learn through observing the world around usand its a big world! Experimenting, gathering information, and testing that information for accuracy, truthfulness, and utility is the basis for developing critical thinking skills. At Camp Quest, we encourage campers to ask why?, to dig into some of life and sciences most challenging questions, and to use reason and empiricism when tackling problems.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-7828913994_2b81234f77_o-300x200.jpg"
+            },
+            {
+                "name": "CRITICAL THINKING CHALLENGE SKITS",
+                "description": "Critical Thinking Challenge Skits engage campers in thought about ethical issues in their homes, schools, and communities and foster collaborative problem solving. Campers learn about the impact they can have on igniting positive change to address some of our worlds most challenging problems. On the first night of camp, campers are issued a challenge question or prompt that will be transformed into a short skit presented by their team at the final campfire. Challenge Skits offer campers the opportunity to explore a major ethical or social question freely with their peers, providing their response through humor, song, and performance.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-48114317537_4cbe4fc281_o-300x200.jpg"
+            },
+            {
+                "name": "MOMENT OF SCIENCE!",
+                "description": "Moment of Science is a short, daily program where an interesting scientific fact is sharedloudly, exuberantly, and for all to hear and learn! In keeping with our fun camp atmosphere, campers and staff might take turns sharing fun facts and exchanging ideas and knowledge.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-IMG_0116-1-300x200.jpg"
+            },
+            {
+                "name": "INVISIBLE CREATURES",
+                "description": "When the first Camp Quest opened in 1996, two invisible unicorns attached themselves to the community. Motivated by the loftiest of prizes, a pre-1954 one-hundred-dollar bill, campers have vied to do the impossible: prove that the unicorns do not exist. As Camp Quest has matured and expanded, new mythical creatures have become part of Camp Quest lore. Our Invisible Creatures activity is an enormously fun and spirited way to build camp identity and explore complex philosophical problems. Invisible Creatures also introduces campers to logical fallacies and complements our other critical thinking and reasoning activities.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-UnicornHerdOhio-300x200.jpg"
+            },
+            {
+                "name": "WORLD RELIGIONS &WORLDVIEW AWARENESS",
+                "description": "Cultural literacy has become increasingly important in our globalized world. Our World Religions program encourages cultural literacy and promotes our values of open-mindedness, empathy, inclusion, and diversity. Many Camp Quest locations feature programming centered on teaching campers factual information about the worlds religions, as well as other non-religious life stances, such as atheism and humanism. Camp Quest aims to expose young people to the various, complex ideas that exist in the world, not to dictate how they will accept or reject those ideas. Teaching our campers to respect and learn about other peoples beliefs and cultures allows them to model for others the same respect and empathy we desire for ourselves.",
+                "image": "https://campquest.org/wp-content/uploads/2021/06/Copy-of-20045393_10154849172128123_4864293942345301699_o-300x200.jpg"
+            }
+        ],
+        "policies": [
+            {
+                "name": "The Information We Collect",
+                "description": "Camp Quest collects information by various methods including information actively provided by its lead providers and customers, as well as information arising from customer surveys and general feedback. The types of personal information we collect include name, address, phone number, and email address."
+            },
+            {
+                "name": "How We Use This Information",
+                "description": "This information is used to aid in the provision of our various products and services, including [customer service, accounting, billing, collections, and the marketing of other products and services]. Camp Quest may use aggregate or anonymous information for various uses for itself and third parties."
+            },
+            {
+                "name": "Who We Share This Information With",
+                "description": "Camp Quest does not share personal information with any third parties except as disclosed in this policy. Camp Quest may provide personal information to subcontractors and professional advisers (which shall be bound by privacy obligations) to assist Camp Quest\u2019s uses disclosed herein."
+            },
+            {
+                "name": "Security",
+                "description": "Personal information is stored in a combination of paper and electronic files. They are protected by security measures appropriate to the nature of the information."
+            },
+            {
+                "name": "Accessing Information",
+                "description": "Individuals may review their personal information contained in Camp Quest\u2019s files by contacting Camp Quest. If an individual believes that any of their personal information is inaccurate, we will make appropriate corrections."
+            }
+        ]
+    }
+]

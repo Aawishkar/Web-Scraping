@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Camp Moosilauke",
+        "url": "https://moosilauke.com/",
+        "logo": "https://moosilauke.com/wp-content/uploads/2022/07/camp-moosilauke.gif",
+        "description": "Helping Boys Become Their Best Selves. Since 1904.",
+        "location": {
+            "address": "Camp Moosilauke55 Moosilauke WayOrford, New Hampshire 03777",
+            "zip_code": "03777",
+            "latitude": "43.89767",
+            "longitude": "-72.05993"
+        },
+        "contact": {
+            "mail": "cmoosilauke@gmail.com",
+            "telephone": "1-800-353-4546"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/CampMoosilauke"
+            },
+            {
+                "vimeo": "https://vimeo.com/user5404249"
+            }
+        ],
+        "image_urls": [
+            "https://moosilauke.com/wp-content/uploads/2022/07/Boy-experts-1536x1078.jpeg",
+            "https://moosilauke.com/wp-content/uploads/2022/07/Character-dev11.jpeg",
+            "https://moosilauke.com/wp-content/uploads/2022/07/Positive-culture-1536x1025.jpg",
+            "https://moosilauke.com/wp-content/uploads/2022/07/Spec-setting-1536x1115.jpeg",
+            "https://moosilauke.com/wp-content/uploads/2022/07/Highest-rated-1536x1036.jpeg"
+        ],
+        "sessions": [
+            {
+                "name": "First Session",
+                "duration": "4 Weeks",
+                "cost": "$9400",
+                "start_date": "June 21",
+                "end_date": "July 20",
+                "location": "Camp Moosilauke, Orford, New Hampshire",
+                "deposits": "$1000"
+            },
+            {
+                "name": "First Session",
+                "duration": "2 Weeks",
+                "cost": "$4700",
+                "start_date": "June 21",
+                "end_date": "July 5",
+                "location": "Camp Moosilauke, Orford, New Hampshire",
+                "deposits": "$500"
+            },
+            {
+                "name": "First Session",
+                "duration": "2 Weeks",
+                "cost": "$4700",
+                "start_date": "July 6",
+                "end_date": "July 20",
+                "location": "Camp Moosilauke, Orford, New Hampshire",
+                "deposits": "$500"
+            },
+            {
+                "name": "Second Session",
+                "duration": "2 \u00bd Weeks",
+                "cost": "$5500",
+                "start_date": "July 23",
+                "end_date": "August 9",
+                "location": "Camp Moosilauke, Orford, New Hampshire",
+                "deposits": "$500"
+            }
+        ],
+        "categories": [
+            {
+                "name": "land sports, waterfront, and outdoor adventure",
+                "description": "The Moosilauke experience balances three main program areas: land sports, waterfront, and outdoor adventure. In the age of specialization, we pride ourselves on being a camp that has eight land sport options including lacrosse, and baseball on two minor league quality diamonds, a full waterfront where campers can do everything from sailing to canoeing to wake surfing, while also offering an array of outdoor adventure experiences that includes multiple night backpacking experiences and white water kayaking and canoe trips. In over 117 years, no camper has come to camp experienced and confident in all our activity areas so every camper will have areas where they will be taking risks and encountering and overcoming failure.",
+                "image": "https://moosilauke.com/wp-content/uploads/2022/07/soren-1536x1024.jpg"
+            },
+            {
+                "name": "A daily schedule that balances structure and choice",
+                "description": "To ensure that all campers experience the full breadth of opportunities available, boys of all ages are assigned during two morning activity periods. Classes range from tennis to mountain biking to archery to kayaking. However, to allow campers to grow and specialize in the areas they are most interested in, campers sign up for the two afternoon periods. Additionally, there are free-choice days throughout the summer. Evenings are usually reserved for special activities like fishing, waterskiing, tubing and team-building games.",
+                "image": "https://moosilauke.com/wp-content/uploads/2022/07/Pics-for-web.001.jpeg"
+            },
+            {
+                "name": "The option for all campers to play against other camps in more than six sports.",
+                "description": "Intercamp competition is a core part of the Moosilauke Experience. However, we are very careful to keep our competition and instruction low stress, and to ensure that every boy who wants to compete \u2013 regardless of skill level \u2013 is able to. Our highly trained staff, many of whom have coached at the varsity level, is committed to providing healthy competition that promotes sportsmanship and teamwork.",
+                "image": "https://moosilauke.com/wp-content/uploads/2022/07/IMG_0497-1536x1024.jpg"
+            },
+            {
+                "name": "Required and voluntary backcountry experiences on a weekly basis",
+                "description": "Adventure trips are a central part of each session.\u00a0 As part of our Backcountry Leadership Program campers have the option to go on overnight backpacking and canoe adventures and day kayaking, climbing, and mountain biking trips.",
+                "image": "https://moosilauke.com/wp-content/uploads/2022/07/IMG_1284-1-1536x1024.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Lacrosse",
+                "description": "Lacrosse is one of the land sports offered, played on two minor league quality diamonds.",
+                "image": "null"
+            },
+            {
+                "name": "Baseball",
+                "description": "Baseball is another land sport, played on two minor league quality diamonds.",
+                "image": "null"
+            },
+            {
+                "name": "Sailing",
+                "description": "Sailing is offered as part of the waterfront activities, allowing campers to enjoy the water while learning to sail.",
+                "image": "null"
+            },
+            {
+                "name": "Canoeing",
+                "description": "Canoeing is a popular waterfront activity where campers explore the water using canoes.",
+                "image": "null"
+            },
+            {
+                "name": "Wake Surfing",
+                "description": "Wake surfing is an exciting waterfront activity that allows campers to ride the wake behind a boat.",
+                "image": "null"
+            },
+            {
+                "name": "Tennis",
+                "description": "Tennis is part of the morning activities, offering campers the opportunity to practice and compete.",
+                "image": "null"
+            },
+            {
+                "name": "Mountain Biking",
+                "description": "Mountain biking is part of the morning activity options, giving campers the chance to ride on trails.",
+                "image": "null"
+            },
+            {
+                "name": "Archery",
+                "description": "Archery is available as a class in the morning activity period, teaching campers precision and focus.",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking",
+                "description": "Kayaking is a waterfront activity where campers learn to navigate through water using a kayak.",
+                "image": "null"
+            },
+            {
+                "name": "Fishing",
+                "description": "Fishing is a special evening activity that allows campers to relax by the water and try their hand at catching fish.",
+                "image": "null"
+            },
+            {
+                "name": "Water Skiing",
+                "description": "Water skiing is another waterfront activity where campers learn to ski on the water.",
+                "image": "null"
+            },
+            {
+                "name": "Tubing",
+                "description": "Tubing is a fun water activity where campers ride inflatable tubes on the water, often at high speed.",
+                "image": "null"
+            },
+            {
+                "name": "Team-building Games",
+                "description": "Team-building games are special evening activities that foster cooperation and teamwork among campers.",
+                "image": "null"
+            },
+            {
+                "name": "Backpacking",
+                "description": "Backpacking is a backcountry experience where campers go on overnight hiking trips, exploring nature.",
+                "image": "null"
+            },
+            {
+                "name": "Canoe Adventures",
+                "description": "Canoe adventures are backcountry trips where campers paddle through scenic areas, often on overnight journeys.",
+                "image": "null"
+            },
+            {
+                "name": "Climbing",
+                "description": "Climbing is a backcountry activity where campers tackle rock walls or natural structures during day trips.",
+                "image": "null"
+            },
+            {
+                "name": "Mountain Biking (Backcountry)",
+                "description": "Backcountry mountain biking trips allow campers to ride through rugged terrains, combining adventure and skill.",
+                "image": "null"
+            }
+        ]
+    }
+]

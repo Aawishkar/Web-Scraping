@@ -1,0 +1,414 @@
+[
+    {
+        "name": "Camps Equinunk and Blue Ridge",
+        "url": "https://www.cecbr.com",
+        "logo": "https://www.cecbr.com/wp-content/themes/cecbr/img/logos.svg",
+        "description": "For generations, Camps Equinunk and Blue Ridge have created a wholesome environment of time-honored traditions and values that, by nurturing simplicity, integrity, kindness and inclusivity, build character. Our unique culture teaches campers and staff to respect themselves, others and the environment and helps them grow into responsible, caring adults and citizens.",
+        "location": [
+            {
+                "address": "P.O. Box 365, Equinunk, PA",
+                "zip_code": "18417",
+                "latitude": "41.80409",
+                "longitude": "-75.18124"
+            }
+        ],
+        "contact": {
+            "mail": "info@cecbr.com",
+            "telephone": "570-224-4121"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/CECBR"
+            },
+            {
+                "instagram": "https://instagram.com/equinunkblueridge"
+            },
+            {
+                "youtube": "https://www.youtube.com/channel/UCIQb-JOJ8huzMAjedwvPE2Q"
+            },
+            {
+                "blog": "https://www.cecbr.com/blog/"
+            }
+        ],
+        "image_urls": [
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-brother-sister-experience.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-blue-ridge.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-equinunk.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-dates-fees-faqs.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-special-events.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-tour-camp.jpg",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/gaga-home-tile.jpg?v=2024",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/ebr-tile-winter-reunion-2024.jpg?v=2024",
+            "https://www.cecbr.com/wp-content/themes/cecbr/img/tiles/tile-lg-b-work-at-camp.jpg"
+        ],
+        "sessions": {
+            "name": "2025 Season",
+            "duration": null,
+            "cost": "$16,400",
+            "start_date": "Sunday, June 29th 2025",
+            "end_date": "Saturday, August 16th 2025",
+            "location": "Equinunk, PA",
+            "deposits": null,
+            "eligible": null
+        },
+        "categories": [
+            {
+                "name": "Athletics",
+                "description": "Our athletic programs and facilities at Equinunk and Blue Ridge are top notch. Our coaches and instructors are highly credentialed professionals, and work throughout the year with high school and college athletes. Their talent is magnified in the camp setting by their ability to relate to your children and make learning simple and fun. Our CECBR campus features several sport facilities lit for night play so campers can enjoy our numerous athletic fields, courts, and gymnasiums in the evening!",
+                "image": "null"
+            },
+            {
+                "name": "Waterfront",
+                "description": "Our waterfront facilities are the \u201ccool\u201d places to be on warm summer days and are supervised by our experienced Red Cross certified lifeguards. Both our Equinunk and Blue Ridge campuses feature heated pools with saltwater filtration systems, and underwater sound systems and lights for night swims! The Waterfront, set on Union Lake, is home to our waterski program, which is incredibly popular amongst campers!",
+                "image": "null"
+            },
+            {
+                "name": "Adventure",
+                "description": "Our adventure program is structured for campers to \u201clearn the ropes\u201d with our dedicated and certified Adventure/Outdoor Exploration team!",
+                "image": "null"
+            },
+            {
+                "name": "Creative Arts, Dance, Hobbies & Theater",
+                "description": "Art, Dance, Music, Media and Theater at Equinunk & Blue Ridge allow campers to bring their imagination to life! Our programs, facilities, and staff inspire and guide campers through the many forms of artistic expression. Our Creative Arts Centers, \u2018The Ridge\u2019 at CBR, Hobby Center at CE, our amphitheater and dance studios are designed to inspire camper creativity and exposure to new possibilities.",
+                "image": "null"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Baseball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Basketball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Field Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fitness",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Flag Football",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Frisbee Golf",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "GAGA",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Golf",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Roller Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Soccer",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Softball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Street Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Team Handball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tennis",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ultimate Frisbee",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Volleyball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Aqua Park at the Lake",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Boating",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Canoeing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fishing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sailing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stand-up Paddle Boarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Swim (Instructional & Free)",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tubing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Water Polo",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Waterslide at Equinunk",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Waterskiing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Wakeboarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Wakesurfing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Archery",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Overnight Camping",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cave",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Climbing Tower",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Climbing Wall",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fencing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "High & Low Ropes Course",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Hiking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Nature",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Orienteering",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Outdoor Exploration",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Treehouse",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Zip-Line",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Candle making",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ceramics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cooking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Crafts",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Dance",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Drama",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Jewelry Design",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Macram\u00e9",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Media",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Model making",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Music and Media",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Photography",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Painting & Sketching",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Robots",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Rocketry",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Screen printing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sculpture",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sewing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Textiles",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tie-Dye",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Video",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Woodworking",
+                "description": "null",
+                "image": "null"
+            }
+        ]
+    }
+]

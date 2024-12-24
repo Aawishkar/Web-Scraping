@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Camp Quinebarge",
+        "url": "https://www.campquinebarge.com/",
+        "logo": "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/01/13233030/logo-286x73.png",
+        "description": "New Hampshire\u2019s Lakes and Mountains regions are in our backyard and we utilize them extensively all summer, sending trips out almost daily including canoeing, hiking, camping, fishing, backpacking, mountain biking and white water rafting trips, offering campers the challenge of the outdoors. Both day and overnight trips are included. The White Mountain region of New Hampshire offers an excellent variety of rivers and trails for all abilities.",
+        "location": {
+            "address": "100 Sibley Road, Moultonborough,",
+            "zip_code": "03254",
+            "latitude": "43.70537",
+            "longitude": "-71.38900"
+        },
+        "contact": {
+            "mail": "fun@campquinebarge.com",
+            "telephone": "603-253-6029"
+        },
+        "socials": [
+            {
+                "instagram": "https://www.instagram.com/campquinebarge/"
+            },
+            {
+                "twitter": "https://twitter.com/Quinebarge"
+            },
+            {
+                "facebook": "https://www.facebook.com/camp.quinebarge"
+            }
+        ],
+        "image_urls": [
+            "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/01/13232647/monkey-01-720x300.jpg",
+            "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/01/13232646/monkey-02-360x300.jpg",
+            "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/01/13232645/monkey-03-360x300.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$4775",
+                "location": "Camp Quinebarge",
+                "start_date": "June 22",
+                "end_date": "July 5",
+                "duration": "2 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$4775",
+                "location": "Camp Quinebarge",
+                "start_date": "July 6",
+                "end_date": "July 19",
+                "duration": "2 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$4775",
+                "location": "Camp Quinebarge",
+                "start_date": "July 20",
+                "end_date": "August 2",
+                "duration": "2 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$4775",
+                "location": "Camp Quinebarge",
+                "start_date": "August 3",
+                "end_date": "August 16",
+                "duration": "2 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$7750",
+                "location": "Camp Quinebarge",
+                "start_date": "June 22",
+                "end_date": "July 19",
+                "duration": "4 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$7750",
+                "location": "Camp Quinebarge",
+                "start_date": "July 20",
+                "end_date": "August 16",
+                "duration": "4 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$10050",
+                "location": "Camp Quinebarge",
+                "start_date": "June 22",
+                "end_date": "August 2",
+                "duration": "6 and 8 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$10050",
+                "location": "Camp Quinebarge",
+                "start_date": "July 6",
+                "end_date": "August 16",
+                "duration": "6 and 8 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            },
+            {
+                "name": "2025 Summer Camp",
+                "cost": "$12700",
+                "location": "Camp Quinebarge",
+                "start_date": "June 22",
+                "end_date": "August 16",
+                "duration": "6 and 8 Week Session",
+                "deposit": "null",
+                "eligible": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Horseback Riding",
+                "description": "lessons are available daily under the supervision of our qualified instructors. After campers have learned to care for their horses and to demonstrate proficiency in the ring, trail rides on our extensive trail network offer an extra challenge.",
+                "image": "null"
+            },
+            {
+                "name": "Arts & Crafts, Ceramics, Wood Shop and Drama",
+                "description": "offer campers unlimited creative possibilities. We specialize in both traditional and eco-friendly handicraft activities, challenging campers to create projects they will take home and remember their camp experience all year long.",
+                "image": "null"
+            },
+            {
+                "name": "Sports and Adventure.",
+                "description": "Archery, tennis on our clay courts, climbing wall, low and high ropes, zip line, and every field sport imaginable are offered in our sports and adventure program. Quinebarge offers possibly the world\u2019s most difficult frisbee golf course in the woods, Gaga, volleyball, basketball, street hockey, softball, kickball, Quidditch, soccer, lacrosse, non-competitive games and much more.\u00a0 Our climbing wall and adventure courses promote teamwork and cooperation.",
+                "image": "null"
+            },
+            {
+                "name": "Swimming and Boating.",
+                "description": "Our swim program offers daily swim lessons in accordance with American Red Cross standards and we have all-camp general swim each afternoon. Quinebarge offers tubing, sailing, canoeing, kayaking, paddle boards, surf bikes, playaks and many other types of boats to enable kids to get out on our beautiful lake, learn how to use many types of boats and have a great, refreshing time.",
+                "image": "null"
+            },
+            {
+                "name": "Nature.",
+                "description": "Quinebarge\u2019s 70 acres of woods, waterfront and trails offer a ready-made outdoor environmental activity center. We make tasty banana bread in our solar cookers, take trail hikes, geo-cache, and create eco projects, learning about our natural world.",
+                "image": "null"
+            },
+            {
+                "name": "Trips.",
+                "description": "New Hampshire\u2019s Lakes and Mountains regions are in our backyard and we utilize them extensively all summer, sending trips out almost daily including canoeing, hiking, camping, fishing, backpacking, mountain biking and white water rafting trips, offering campers the challenge of the outdoors. Both day and overnight trips are included. The White Mountain region of New Hampshire offers an excellent variety of rivers and trails for all abilities.",
+                "image": "null"
+            }
+        ],
+        "activities": [
+            {
+                "activity": "Swimming",
+                "description": "All of our campers participate in Red Cross swimming lessons with qualified instructors and lifeguards. Whether campers swim competitively or are jumping in for the first time, our Waterfront staff focus on safety, skills, and confidence in the water. Campers (and counselors) love running, climbing, bouncing, and sliding on our aquatic inflatables: a jumbo slide, climbing wall, trampoline with \u201cblob\u201d, and Rockit (floating spherical see-saw).",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232659/IMG_5706.jpg",
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2017/09/13232414/Screenshot-2019-08-03-at-5.37.29-PM.png"
+                ]
+            },
+            {
+                "activity": "Boating",
+                "description": "Lake Kanasatka is the perfect place for a day on the water. We offer instruction in non-motorized watercrafts including canoeing, kayaking, paddleboarding, and of course sailing, plus paddleboats, surfbikes, and more! Campers love tubing behind our pontoon boat as well!",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232655/IMG_6859.jpg",
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232506/37893750_2060304137327670_5532497268336230400_o.jpg"
+                ]
+            },
+            {
+                "activity": "Sports",
+                "description": "Quinebarge offers a multitude of team and individual sports. From classics like tennis, basketball, kickball, volleyball, lacrosse, field and floor hockey, biking, and soccer, to international additions of cricket and rounders, plus new favorites like Quidditch, ultimate Frisbee, and Gaga there is something for everyone.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232657/IMG_6172.jpg"
+                ]
+            },
+            {
+                "activity": "Fencing",
+                "description": "Campers love trying out this Olympic Sport! A hard-to-find offering at summer camps, fencing is included in tuition at Quinebarge and gives campers the opportunity to learn something new and unique. Our qualified instructors focus on safety and fun while teaching the fundamentals of the sport and helping more advanced campers hone their skills.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232447/fencing-for-website.jpg"
+                ]
+            },
+            {
+                "activity": "Archery",
+                "description": "Since our inception in 1936, archery has been a staple at Camp Quinebarge and is one of our most popular activities today! Campers learn safety and technique from certified instructors on our range, and grow in confidence with each bull\u2019s eye.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232702/IMG_5110.jpg"
+                ]
+            },
+            {
+                "activity": "Horseback Riding",
+                "description": "The Quinebarge Riding Program is included in tuition and is open to all campers, regardless of experience. Campers that sign up for the week will ride every day, and receive 1-on-1 instruction from our qualified staff. Campers learn to ride in the ring and then advance to trail rides on our extensive trail network on camp.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232703/IMG_4970-2.jpg"
+                ]
+            },
+            {
+                "activity": "Nature",
+                "description": "With 70 acres of forest and 1,250 feet of lakefront, Camp Quinebarge is an ideal natural classroom. Campers who choose Nature learn about local plants and animals as well as environmental topics in a hands-on setting. They walk our wooded trails, learning about local flora and fauna, go fishing, learn about the importance of water on the lake, and have even been known to whip up treats in our solar cookers.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232701/IMG_5278.jpg"
+                ]
+            },
+            {
+                "activity": "Adventure",
+                "description": "Our onsite climbing tower plus high and low Ropes Courses and Zip Line allow campers to reach new heights every day. Campers learn life skills including communication, teamwork, trust, and cooperation through games and challenges designed for experiential learning.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232656/IMG_6294.jpg"
+                ]
+            },
+            {
+                "activity": "Arts & Crafts, Ceramics,\u00a0Drama WoodShop",
+                "description": "Our popular Arts and Crafts activities allow campers to get creative with projects including drawing, painting, ceramics, jewelry and bracelet making, eco-crafts, photography, and more! In wood shop, campers are empowered by creating projects from scratch: they design, cut, sand, build, and paint with close supervision and guidance from counselors, and always go home with something beautiful. Our Drama program teaches kids the basics of putting on a show, performing in front of a group, a bit of stand up and more.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232654/IMG_6926-1.jpg"
+                ]
+            },
+            {
+                "activity": "Fun & Games",
+                "description": "Outside of our program areas, campers can explore their own hobbies or try news ones with their friends and cabin mates. With our own library, Gaga Pit, board games, Four Square court, and outdoor activity center, there is always something to do.",
+                "image_urls": [
+                    "https://campquinebarge-offload-media.s3.amazonaws.com/wp-content/uploads/2016/02/13232700/IMG_5439.jpg"
+                ]
+            }
+        ]
+    }
+]

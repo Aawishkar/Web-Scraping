@@ -1,0 +1,528 @@
+[
+    {
+        "name": "Camp Laurel",
+        "url": "https://www.camplaurel.com/",
+        "logo": "https://www.camplaurel.com/wp-content/uploads/2020/04/camp-laurel-maine-logo.png",
+        "description": "Our Riding program features 20 horses and a full outdoor facility, as well as two 12-stall barns. Seven instructors are responsible for teaching and horse care.Riding is an optional program and campers elect to participate three to five times per week. Safety is paramount. The Program is instructional, balanced with fun and fostering a love of horses.Campers learn the essential basics of riding and have the opportunity to progress to an advanced level of horsemanship. There are occasional in-camp riding shows. Horse care and stable management are also part of the program. There is an \u201cIntensive Riding\u201d program for campers who have a keen interest in equine science.English Riding InstructionJumpingDressageStable ManagementHorse ShowsHorse Care",
+        "location": {
+            "address": [
+                "PO Box 327, Readfield",
+                "PO Box 508, Westport"
+            ],
+            "zip_code": [
+                "04355",
+                "06881"
+            ],
+            "latitude": [
+                "44.38940",
+                "41.14170"
+            ],
+            "longitude": [
+                "-69.95240",
+                "-73.35850"
+            ]
+        },
+        "contact": {
+            "mail": "summer@camplaurel.com",
+            "telephone": [
+                "207-685-4945",
+                "203-227-8866"
+            ]
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/CampLaurel"
+            },
+            {
+                "instagram": "https://instagram.com/camplaurelmaine"
+            }
+        ],
+        "image_urls": [
+            "https://www.camplaurel.com/wp-content/themes/laurel/img/Camp-Laurel-Home-Montage-Poster-2020.jpg",
+            "https://www.camplaurel.com/wp-content/themes/laurel/img/Camp-Laurel-Home-Montage-Poster-2020.jpg",
+            "https://laurel-media.s3.amazonaws.com/Camp-Laurel-Home-Montage-2020.mp4",
+            "https://www.camplaurel.com/wp-content/themes/laurel/img/home-footer-bg-default-lg.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "2025 Summer Camp",
+                "start_date": "Saturday, June 21st",
+                "end_date": "Wednesday, August 6th",
+                "duration": "null",
+                "cost": "$17,100",
+                "deposit": "null",
+                "location": "Readfield, ME",
+                "eligible": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Waterfront and lake activities",
+                "description": "Our expansive dock system anchors a dynamic swimming program featuring American Red Cross instruction. We have a fleet of 5 Championship Mastercraft Ski Boats, 6 Hobies, 10 Sunfish, 2 Lasers, a Vanguard 420 and Hunter 170, 30 canoes and kayaks, and 20 Stand-Up Paddleboards. The camp fronts on Echo Lake, a 3-mile long spring-fed lake. Laurel occupies more than 2500 feet of private shoreline.WaterskiingWakeboardingWakesurfingSailingStand-Up PaddleboardingFishingCanoeingKayakingSnorkelingSwim TeamSwimming InstructionRecreational Swimming",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/04/hero-waterfront.jpg"
+            },
+            {
+                "name": "Boys Sports and Athletics activities",
+                "description": "Camp Laurel\u2019s extensive sports program offers something for everyone. Five large athletic fields for soccer, baseball, football, lacrosse, softball and field hockey; a pro-sized hockey arena; a gymnastics center; numerous sports courts; a fitness center and fit-trail; five regulation basketball courts and an archery range allow campers to improve individual skill and experience the value of teamwork. Our sports program includes:SoccerFlag FootballBaseballBasketballLacrosseVolleyballRoller HockeyStreet HockeyGolfGymnasticsFitness and CardioWeight TrainingSpinRunningArcheryFieldhouse SportsCross TrainingUltimate Frisbee",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/04/hero-boys-athletics.jpg"
+            },
+            {
+                "name": "Girls Sports and Athletics activities",
+                "description": "Camp Laurel\u2019s extensive sports program offers something for everyone. Five large athletic fields for soccer, baseball, football, lacrosse, softball and field hockey; a pro-sized hockey arena; a gymnastics center; numerous sports courts; a fitness center and fit-trail; five regulation basketball courts and an archery range allow campers to improve individual skill and experience the value of teamwork. Our sports program includes:SoccerBasketballLacrosseVolleyballSoftballGolfField HockeyGymnasticsFitness and CardioWeight TrainingSpinRunningArcheryFieldhouse SportsCross TrainingYogaCheerleading and TumblingUltimate Frisbee",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/04/hero-girls-athletics.jpg"
+            },
+            {
+                "name": "Tennis Camp at Camp Laurel",
+                "description": "Our tennis program is one of the finest in camping. The importance of this sport is emphasized by a well-qualified, mature staff and excellent facilities. Our 15 all-weather tennis courts are nestled in a central wooded area. Our program is under the direction of Intercollegiate Coaches.Professional Tennis InstructionTournaments and IntercampsTennis LaddersIntensive TennisDavis Cup Style Match Play",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/06/hero-tennis.jpg"
+            },
+            {
+                "name": "Outdoor adventure activities",
+                "description": "A staff of more than 25 comprise our extensive Adventure Program, consisting of hiking and backpacking trips, a state-of-the-art Aerial Park, two Climbing Towers, a Bouldering Wall, mountain biking and an in-camp Discovery program exposing campers to the wonders of Maine.Overnight CampingBackpackingAerial ParkClimbingMountain BikingDiscovery",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/04/hero-adventure.jpg"
+            },
+            {
+                "name": "Creative and performing arts",
+                "description": "Our Arts Center offers painting and drawing, culinary arts, ceramics, a fully-integrated digital recording studio, sculpture, metalsmithing and much more. Campers with a flair for performance participate in technical classes and frequent stage productions at the Laurel Theatre.Studio Art(painting, drawing, watercolors)MetalsmithingCeramicsComic Book IllustrationArts & CraftsChefCamp(Culinary Arts)Technical LightingStage Design & ConstructionMusic Theatre PerformancesRadio StationMusic ProductionSong WritingSong RecordingStage Make-UpImprov and ComedyCostumingVoiceHip HopModern DanceJazz DanceTap Dance",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/06/hero-inter-arts.jpg"
+            },
+            {
+                "name": "Equestrian and Horseback Riding program",
+                "description": "Our Riding program features 20 horses and a full outdoor facility, as well as two 12-stall barns. Seven instructors are responsible for teaching and horse care.Riding is an optional program and campers elect to participate three to five times per week. Safety is paramount. The Program is instructional, balanced with fun and fostering a love of horses.Campers learn the essential basics of riding and have the opportunity to progress to an advanced level of horsemanship. There are occasional in-camp riding shows. Horse care and stable management are also part of the program. There is an \u201cIntensive Riding\u201d program for campers who have a keen interest in equine science.English Riding InstructionJumpingDressageStable ManagementHorse ShowsHorse Care",
+                "image": "https://www.camplaurel.com/wp-content/uploads/2020/04/hero-equestrian.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Waterskiing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Wakeboarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Wakesurfing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Sailing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stand-Up Paddleboarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fishing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Canoeing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Snorkeling",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Swim Team",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Swimming Instruction",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Recreational Swimming",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Soccer",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Flag Football",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Baseball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Basketball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Volleyball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Roller Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Street Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Golf",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fitness and Cardio",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Weight Training",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Spin",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Running",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Archery",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fieldhouse Sports",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cross Training",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ultimate Frisbee",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Soccer",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Basketball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Volleyball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Softball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Golf",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Field Hockey",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fitness and Cardio",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Weight Training",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Spin",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Running",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Archery",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fieldhouse Sports",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cross Training",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Yoga",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cheerleading and Tumbling",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ultimate Frisbee",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Professional Tennis Instruction",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tournaments and Intercamps",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tennis Ladders",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Intensive Tennis",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Davis Cup Style Match Play",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Overnight Camping",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Backpacking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Aerial Park",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Climbing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Mountain Biking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Discovery",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Studio Art(painting, drawing, watercolors)",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Metalsmithing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ceramics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Comic Book Illustration",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Arts & Crafts",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "ChefCamp(Culinary Arts)",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Technical Lighting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stage Design & Construction",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Music Theatre Performances",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Radio Station",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Music Production",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Song Writing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Song Recording",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stage Make-Up",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Improv and Comedy",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Costuming",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Voice",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Hip Hop",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Modern Dance",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Jazz Dance",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tap Dance",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "English Riding Instruction",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Jumping",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Dressage",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Stable Management",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Horse Shows",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Horse Care",
+                "description": "null",
+                "image": "null"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Cheley Colorado Camps",
+        "url": "https://www.cheley.com/",
+        "description": "We build the lasting character and resiliency of young people, creating unique life experiences in a challenging and nurturing natural environment.",
+        "location": {
+            "address": [
+                "Estes Park Office",
+                "Denver Office"
+            ],
+            "zip_code": [
+                "80517",
+                "80206"
+            ],
+            "latitude": [
+                "40.40537",
+                "39.73072"
+            ],
+            "longitude": [
+                "-105.60639",
+                "-104.95321"
+            ]
+        },
+        "contact": {
+            "mail": "office@cheley.com",
+            "telephone": "970.586.4244"
+        },
+        "socials": [
+            {
+                "instagram": "https://www.instagram.com/cheleycoloradocamps/"
+            },
+            {
+                "linkedin": "https://www.linkedin.com/company/cheley-colorado-camps"
+            },
+            {
+                "facebook": "https://www.facebook.com/cheleycamps"
+            },
+            {
+                "youtube": "https://www.youtube.com/@cheleycamps"
+            },
+            {
+                "vimeo": "https://vimeo.com/cheley"
+            }
+        ],
+        "image_urls": [
+            "https://www.cheley.com/app/uploads/2022/08/man-woodshop-boy-410x464.jpg",
+            "https://www.cheley.com/app/uploads/2022/08/backs-hiking-backpacking-mountain-740x512.jpg",
+            "https://www.cheley.com/app/uploads/2022/08/boys-feeding-hot-dog-pot-410x464.jpg",
+            "https://www.cheley.com/app/uploads/2023/11/chipeta-campers-taking-care-of-each-other-at-dinner-on-an-outcamp-740x512.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "Summer Camp 2025 - First Term",
+                "start_date": "June 10th",
+                "end_date": "July 6th",
+                "cost": "$7450",
+                "deposit": "$1000",
+                "eligible": "9-17 years old",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Summer Camp 2025 - Second Term",
+                "start_date": "July 8th",
+                "end_date": "August 3rd",
+                "cost": "$7450",
+                "deposit": "$1000",
+                "eligible": "9-17 years old",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Quarter B-4 2025 - Pikas - Pikas8 year-olds",
+                "start_date": "August 5th",
+                "end_date": "August 9th",
+                "cost": "$1250",
+                "deposit": "$500",
+                "eligible": "8-year-olds",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Quarter B-4 2025 - Pikas - Marmots9 & 10 year-olds",
+                "start_date": "August 5th",
+                "end_date": "August 9th",
+                "cost": "$1600",
+                "deposit": "$500",
+                "eligible": "8-year-olds",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Quarter B-4 2025 - Marmots - Pikas8 year-olds",
+                "start_date": "August 5th",
+                "end_date": "August 9th",
+                "cost": "$1250",
+                "deposit": "$500",
+                "eligible": "9-10 year-olds",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Quarter B-4 2025 - Marmots - Marmots9 & 10 year-olds",
+                "start_date": "August 5th",
+                "end_date": "August 9th",
+                "cost": "$1600",
+                "deposit": "$500",
+                "eligible": "9-10 year-olds",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Family Camp 2025 - Wagon of 4",
+                "start_date": "August 5th",
+                "end_date": "August 10th",
+                "cost": "$3300",
+                "deposit": "$1000",
+                "eligible": "Families",
+                "duration": "5-day",
+                "location": "null"
+            },
+            {
+                "name": "Family Camp 2025 - Each additional person",
+                "start_date": "",
+                "end_date": "null",
+                "cost": "$500",
+                "deposit": "",
+                "eligible": "Families",
+                "duration": "5-day",
+                "location": "null"
+            }
+        ]
+    }
+]

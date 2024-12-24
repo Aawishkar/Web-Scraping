@@ -1,0 +1,394 @@
+[
+    {
+        "name": "Camp North Star",
+        "url": "https://campnorthstarmaine.com",
+        "logo": "https://campnorthstarmaine.com/wp-content/uploads/2018/10/northstar-logo.png",
+        "description": "Step onto our standup paddleboards and learn different paddle techniques and safety practices while exploring our 55-acre lake.",
+        "location": {
+            "address": "200 Verrill Road Poland Spring, ME 04274",
+            "zip_code": "04274",
+            "latitude": "44.04558",
+            "longitude": "-70.38708"
+        },
+        "contact": {
+            "mail": "info@campnorthstarmaine.com",
+            "telephone": "207.998.4777"
+        },
+        "socials": [
+            {
+                "facebook": "http://www.facebook.com/cnsmaine"
+            },
+            {
+                "instagram": "http://instagram.com/cnsmaine"
+            },
+            {
+                "twitter": "http://www.twitter.com/campnorthstar"
+            }
+        ],
+        "image_urls": [
+            "https://campnorthstarmaine.com/wp-content/uploads/2018/12/current-dropdown.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2018/10/box2-experience.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2019/01/box4-explorecamp1.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2018/10/box3-meetdirector.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2018/11/box2-experience-1-1.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2019/01/box5-activities1-1.jpg",
+            "https://campnorthstarmaine.com/wp-content/uploads/2018/10/box6-atrip.jpg"
+        ],
+        "sessions": [
+            {
+                "name": "Summer Camp 2025",
+                "duration": "2 Weeks",
+                "cost": "$4,500",
+                "start_date": "June 22",
+                "end_date": "July 5July 6",
+                "eligible": "Rising 2nd-5th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "3 Weeks",
+                "cost": "$5,500",
+                "start_date": "July 20",
+                "end_date": "August 9",
+                "eligible": "Rising 2nd-5th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "4 Weeks",
+                "cost": "$7,350",
+                "start_date": "June 22",
+                "end_date": "July 19",
+                "eligible": "Rising 2nd-5th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "5 Weeks",
+                "cost": "$8,100",
+                "start_date": "July 6",
+                "end_date": "August 9",
+                "eligible": "Rising 2nd-5th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "7 Weeks",
+                "cost": "$10,700",
+                "start_date": "June 22",
+                "end_date": "August 9",
+                "eligible": "Rising 2nd-5th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "2 Weeks",
+                "cost": "$5,400",
+                "start_date": "June 22",
+                "end_date": "July 5July 6",
+                "eligible": "Rising 6th-11th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "3 Weeks",
+                "cost": "$6,600",
+                "start_date": "July 20",
+                "end_date": "August 9",
+                "eligible": "Rising 6th-11th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "4 Weeks",
+                "cost": "$9,050",
+                "start_date": "June 22",
+                "end_date": "July 19",
+                "eligible": "Rising 6th-11th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "5 Weeks",
+                "cost": "$10,100",
+                "start_date": "July 6",
+                "end_date": "August 9",
+                "eligible": "Rising 6th-11th graders",
+                "location": "null",
+                "deposits": "null"
+            },
+            {
+                "name": "Summer Camp 2025",
+                "duration": "7 Weeks",
+                "cost": "$13,400",
+                "start_date": "June 22",
+                "end_date": "August 9",
+                "eligible": "Rising 6th-11th graders",
+                "location": "null",
+                "deposits": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Arts",
+                "description": "null",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/main-arts.jpg"
+            },
+            {
+                "name": "Athletics",
+                "description": "null",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/main-athletic.jpg"
+            },
+            {
+                "name": "Outdoors",
+                "description": "null",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/main-outdoor.jpg"
+            },
+            {
+                "name": "Waterfront",
+                "description": "null",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/main-water.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Theater Production",
+                "description": "Step on stage for one of our two musical productions each summer.  Each camper chooses to be a part of our cast or set design team.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/theater.jpg"
+            },
+            {
+                "name": "Woodworking",
+                "description": "Our instructors teach safety skills needed to work with power tools so campers can create benches, clocks, walking sticks, bird houses and more.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-woodworking.jpg"
+            },
+            {
+                "name": "Dance Studio",
+                "description": "Learn under the instruction of teachers from Expansion Arts Dance Studio.  North Stars Dance Academy offers classes in hip-hop, jazz and modern.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-dance.jpg"
+            },
+            {
+                "name": "Painting and Drawing Studio",
+                "description": "From a blank canvas to a finished masterpiece using acrylic paint, pastels, charcoal, and colored pencils.  A variety of classic artwork and periods of art history are covered including Renaissance, Impressionism, and Modern.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-painting.jpg"
+            },
+            {
+                "name": "Jewelry Making",
+                "description": "Use our collection of glass beads, metal wire, fibers, paper, and ribbon to create wearable pieces. Campers explore different techniques include braiding, beading patterns, and wire coiling.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/art-jewelry1.jpg"
+            },
+            {
+                "name": "Rock Band",
+                "description": "Learn to play the guitar and drums with instruction from our staff of musicians and teachers.  Or, rock out and join one of North Stars bands that perform classic rock and top 40 songs.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-band.jpg"
+            },
+            {
+                "name": "Digital Photography",
+                "description": "Learn to operate a DSLR camera and how to frame great shots that become creative works of art after designing them in our computer lab.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/digitalphoto.jpg"
+            },
+            {
+                "name": "Culinary Arts",
+                "description": "North Stars gourmet cooking classes introduces campers to a variety of cuisines from American classics to international favorites.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-cooking.jpg"
+            },
+            {
+                "name": "Rocketry",
+                "description": "3, 2, 1, blast off.  Design, build and launch a Stage 1 or Stage 2 rocket.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/outdoor-rocketry.jpg"
+            },
+            {
+                "name": "Tech Department",
+                "description": "Enter our computer studio filled with MacBooks and choose from a number of video production and radio broadcasting classes.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/tech-dept.jpg"
+            },
+            {
+                "name": "Yoga Studio",
+                "description": "Popular with both boys and girls who like to take a break from their action-packed day.  Yoga teaches campers to stretch, breathe, and focus.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/yoga.jpg"
+            },
+            {
+                "name": "Stained Glass",
+                "description": "Learn a craft that has been around since ancient times. Use techniques such as soldering, foiling, overlay, and glazing to design a stained glass artwork under the watchful eye of our art teachers",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-stainglass.jpg"
+            },
+            {
+                "name": "Ceramic Studio",
+                "description": "Use the pottery wheel or hand-build to create a masterpiece. Learn to fabricate ceramic objects and how to use a variety of surface treatments such as glazing, under-glazing, sgraffito, and slip trailing.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/art-ceramic.jpg"
+            },
+            {
+                "name": "Dungeons & Dragons",
+                "description": "Create a mythical character and learn to play this classic role-playing game.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/art-dungeon.jpg"
+            },
+            {
+                "name": "Fashion Design",
+                "description": "Develop a design with lessons in drawing, proportion and garment construction, while also exploring the world of fashion.  From design to sewing, learn to create pajamas, handbags, pillows, and more!",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/art-fashion.jpg"
+            },
+            {
+                "name": "Book and Study Club",
+                "description": "Pack a favorite book to read or take one out of North Stars library.  Bring a math or reading packet to camp and receive guidance from our teachers to complete the work.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/art-book.jpg"
+            },
+            {
+                "name": "Baseball/Softball",
+                "description": "Baseball & Softball \u2013 North Star offers both sports.  Our coaches focus on skill development for the beginner through advanced player in pitching, fielding and hitting.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/athletic-baseball.jpg"
+            },
+            {
+                "name": "Tennis",
+                "description": "North Stars Tennis Academy with our staff of tennis pros continue to improve our campers game.  We offer daily clinics and optional private lessons for all skill levels including the competitive player.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/athletic-tennis.jpg"
+            },
+            {
+                "name": "Basketball",
+                "description": "Hoop it up and learn from our experienced coaches.  Whether campers are new to the game or looking to make their school team, everyone receives the individualized instruction they need.  North Star also offers an intensive morning basketball program.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/basketball-1.jpg"
+            },
+            {
+                "name": "Inter-Camp Games",
+                "description": "Join one of North Stars teams as we compete against nearby camps in basketball, climbing, soccer, swim, and tennis.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/intercamp.jpg"
+            },
+            {
+                "name": "Fitness",
+                "description": "A healthy lifestyle includes staying physically fit.  Classes in running, conditioning and strength training will help campers meet their goals including participating in one of our 5K races.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/fitness.jpg"
+            },
+            {
+                "name": "Golf",
+                "description": "We partner with nearby Poland Spring Golf Resort to offer instruction from their PGA pros and use of their course, range and practice facility.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/athletic-golf.jpg"
+            },
+            {
+                "name": "Soccer",
+                "description": "North Stars soccer staff of college players and European semi-professionals focus on one-on-one instruction, drills, skill development and game strategy.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/athletic-soccer.jpg"
+            },
+            {
+                "name": "Beach Volleyball",
+                "description": "Step onto our sand courts and learn how to set, spike and serve.  Its a fun and fast-paced sport.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/beachvolleyball.jpg"
+            },
+            {
+                "name": "Ultimate Frisbee",
+                "description": "Its part soccer, part flag-football, with a Frisbee instead of a ball.  Play this fast-paced game and learn how to best throw and catch a Frisbee.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/frisbee-1.jpg"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "Some campers at North Star are trying lacrosse for the very first time and others are learning advanced skills. Everyone enjoys playing America's fastest growing sport.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/athletic-lacrosse.jpg"
+            },
+            {
+                "name": "Rugby",
+                "description": "Play on a field that is called a pitch, and learn that the best way to move the ball forward is to pass it backwards. Our staff of coaches from Europe and Australia teach this international game.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/rugby.jpg"
+            },
+            {
+                "name": "Quidditch",
+                "description": "Learn to play the sport inspired by the Harry Potter books and movies.  Hop on a broomstick and try to score a goal but beware of the snitch.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/athletic-cricket.jpg"
+            },
+            {
+                "name": "Flag Football",
+                "description": "Its a North Star favorite for boys and girls.  Each activity period focuses on improving individual football skills and playing a game on our own field.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/athletic-flagfootball.jpg"
+            },
+            {
+                "name": "Rock Climbing",
+                "description": "We are one of the few camps in the U.S. with natural rock formations.  Learn to climb and rappel a number of rock faces on our property.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/outdoor-rockclimbing.jpg"
+            },
+            {
+                "name": "Ropes Course",
+                "description": "Choose an adventure on the Zip Line, Giant Swing, Climbing Wall, Swinging Log, Dangling Duo and more.  Its always challenge by choice.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/outdoor-ropes.jpg"
+            },
+            {
+                "name": "Outdoor Living Skills",
+                "description": "From purifying water, to pitching a tent, to building a campfire, to using a compass, campers learn how to survive in the great outdoors.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/outdoor-living.jpg"
+            },
+            {
+                "name": "Campfire Cooking",
+                "description": "Our newly built program area offers hands-on classes that teach campers how to cook smores, breakfast favorites, full dinners and more all on an open fire.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/campfire-cooking.jpg"
+            },
+            {
+                "name": "Mountain Biking",
+                "description": "Hop on one of our bikes and learn the safety skills needed to conquer miles of off-road trails that weave their weave throughout our 200-acre property.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/outdoor-mountainbiking.jpg"
+            },
+            {
+                "name": "Archery",
+                "description": "Learn to use a compound and recurve bow on our range with training from our certified staff.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/outdoor-archery.jpg"
+            },
+            {
+                "name": "Fishing",
+                "description": "North Stars 55-acre lake is stocked each summer and ready for campers to reel in their big catch.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/fishing.jpg"
+            },
+            {
+                "name": "Camping",
+                "description": "Every camper has the opportunity to go on an overnight campout.  Juniors and Middies sleep out on a campsite on our property.  Seniors and CITs go on an overnight camping trip.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/outdoor-camping.jpg"
+            },
+            {
+                "name": "Equestrian Center",
+                "description": "Whether camper are new to the sport or a competitive rider, the experienced staff at Wilsonbrook Farm is ready to teach both English and Western style riding.  Enjoy their indoor riding arena and 100 acres of trails.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/outdoor-horsebackriding.jpg"
+            },
+            {
+                "name": "Waterskiing",
+                "description": "Its our most popular waterfront activity.  Whether campers are trying it for the first time or theyre ready to jump wakes, its an activity that everyone looks forward to.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/water-waterskiing-1.jpg"
+            },
+            {
+                "name": "Windsurfing",
+                "description": "Campers progress from simply learning to balance on the board, through tacking and jibbing, to using a harness and foot straps for all the wind-harnessing fun on our lake.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/water-windsurfing.jpg"
+            },
+            {
+                "name": "Sailing",
+                "description": "Theres nothing more beautiful than sailing on our 55-acre lake on a sunny summer day.  Learn to use our easy to handle Pico sailboats with classes in beginner through advanced.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/water-sailing.jpg"
+            },
+            {
+                "name": "Kayaking/Canoeing",
+                "description": "Paddle throughout our 55-acre lake.  Campers learn the J stroke and how to overturn and use a canoe for safety.  Everyone gets to explore by canoe or kayak to the beaver dam.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/water-kayaking.jpg"
+            },
+            {
+                "name": "Wakeboarding",
+                "description": "Its similar to water skiing but a small board is used instead of two skis. Campers have the option of choosing Wakeboarding or Waterskiing each day.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/water-wakeboarding.jpg"
+            },
+            {
+                "name": "Swimming",
+                "description": "Learn this important life skill.  Classes are offered in American Red Cross swim instruction, water aerobics, water polo, synchronized swimming and swim team.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2018/12/water-swimming.jpg"
+            },
+            {
+                "name": "Water Park",
+                "description": "Cool off and have fun on our Giant Slide, Trampoline, Jungle Jim, and Rock-It.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/water-waterpark.jpg"
+            },
+            {
+                "name": "Paddleboarding",
+                "description": "Step onto our standup paddleboards and learn different paddle techniques and safety practices while exploring our 55-acre lake.",
+                "image": "https://campnorthstarmaine.com/wp-content/uploads/2019/01/water-paddleboarding.jpg"
+            }
+        ]
+    }
+]

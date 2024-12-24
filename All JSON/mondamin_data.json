@@ -1,0 +1,151 @@
+[
+    {
+        "name": "Mondamin",
+        "url": "https://www.mondamin.com/",
+        "description": "Roots and WingsFor over 100 years, the Bell family has operated summer camps for young people - Mondamin for boys and Green Cove for girls. We believe that a big part of a child\u2019s education occurs outside the classroom. We also believe that young people need roots as well as wings, and that neither is much good without the other. Self-esteem, independent thinking, initiative, the ability to function in a group other than one\u2019s own family, lifetime skills, lifelong friends\u2026 all are very important factors in the educational, maturing process. These are the very things a good camp should help foster. Being a citizen in a camp community instead of a child in a home can be a valuable and gratifying adventure.",
+        "location": {
+            "address": "413 Mondamin Rd, Zirconia, NC",
+            "zip_code": "28790",
+            "latitude": "35.19663",
+            "longitude": "-82.47956"
+        },
+        "contact": {
+            "mail": "mondamin@mondamin.com",
+            "telephone": "(828) 693-7446"
+        },
+        "socials": [
+            {
+                "facebook": "https://www.facebook.com/Camps-Mondamin-and-Green-Cove-46724246730/"
+            },
+            {
+                "pinterest": "https://www.pinterest.com/campmondamin/"
+            },
+            {
+                "instagram": "https://www.instagram.com/campmondamin/"
+            }
+        ],
+        "image_urls": [
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137025/three-boys-in-dock.jpg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137028/DSC_7429.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137035/downgreenday012.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137031/LookingGlass32.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137030/JJM_9261.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137026/_JON7252.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137034/tugaloo009.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137027/_MG_4409.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137033/tugaloo004.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900",
+            "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137029/IMG_0774.jpeg?ixlib=rails-2.1.4&auto=format%2Ccompress&crop=faces&fit=crop&h=675&w=900"
+        ],
+        "sessions": [
+            {
+                "name": "Junior Camp",
+                "duration": "5 Days",
+                "eligible": "6-10",
+                "start_date": "Wed., 5/28",
+                "end_date": "Sun., 6/1",
+                "cost": "$1,785",
+                "deposits": "null",
+                "location": "null"
+            },
+            {
+                "name": "June Camp",
+                "duration": "3 Weeks",
+                "eligible": "7-13",
+                "start_date": "Wed., 6/4",
+                "end_date": "Mon., 6/23",
+                "cost": "$6,100",
+                "deposits": "null",
+                "location": "null"
+            },
+            {
+                "name": "Main Camp",
+                "duration": "5 Weeks",
+                "eligible": "8-17",
+                "start_date": "Fri., 6/27",
+                "end_date": "Fri., 8/1",
+                "cost": "$8,600",
+                "deposits": "null",
+                "location": "null"
+            },
+            {
+                "name": "August Camp",
+                "duration": "10 days",
+                "eligible": "6-11",
+                "start_date": "Tues., 8/5",
+                "end_date": "Thurs, 8/14",
+                "cost": "$3,570",
+                "deposits": "null",
+                "location": "null"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Philosophy",
+                "description": "Roots and WingsFor over 100 years, the Bell family has operated summer camps for young people - Mondamin for boys and Green Cove for girls. We believe that a big part of a child\u2019s education occurs outside the classroom. We also believe that young people need roots as well as wings, and that neither is much good without the other. Self-esteem, independent thinking, initiative, the ability to function in a group other than one\u2019s own family, lifetime skills, lifelong friends\u2026 all are very important factors in the educational, maturing process. These are the very things a good camp should help foster. Being a citizen in a camp community instead of a child in a home can be a valuable and gratifying adventure.",
+                "image": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/21039/DSC_7692.JPG?auto=format"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Swimming",
+                "description": "Swimming is basic to safety on the waterfront, we want all campers to be at least at an intermediate level; those who are not take lessons at least once a day. Since ours is a non-competitive program, the emphasis is on form and endurance  not on speed. All swimming is supervised by lifeguards.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/19624/IMGP1174.jpg?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Canoeing & Kayaking",
+                "description": "We begin on the lake, where we work on safety and basic strokes. When ready, campers take river trips, training at first on easy Class I and II rivers, then moving up in difficulty and challenge as they are able. We take easy river and lake trips for the inexperienced paddlers, and one to five day trips on Class III and IV rivers for those ready. We spend lots of time teaching how to read water, ferry, catch eddies, and play in the rivers many waves and hydraulics. We especially emphasize river safety and judgment.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/19625/JON_5631.JPG?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Mountain Biking",
+                "description": "Mountain Biking is a wonderful way to cover a lot of rugged country quickly, and lends itself to our trail system beautifully. We have 800 acres of woodland, with many miles of easy to difficult trails. Most children bring basic skills from home and can apply them to our environment quickly. We take lots of day trips, and quite a few overnights as well. There are BMX bikes also, for those not ready for 21 speeds.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/19626/JON_0308.jpg?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Sailing",
+                "description": "The fleet includes Flying Scots, Snipes, Lidos, Lasers and Optis - many of the same boats a local sailing club is likely to use. We like a variety of boats, that way, you learn to manage different rigs and different handling characteristics. Experienced sailors often take a couple of the boats to other, larger lakes (like 9,000 acre Lake Jocassee) to sail and camp for several days.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/20830/JJM_4292.JPG?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Horseback Riding",
+                "description": "Riding begins with a good string of school horses, good facilities and systematic instruction. We own almost all of our horses, and have trained many of them. This enables us to maintain a good balance of mounts suitable for the needs of beginning, intermediate and advanced level riders. Facilities include rings of varying sizes, fields equipped for intermediate to advanced instruction, and many trails. We teach forward seat, English riding.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/21829/DSC_7272.JPG?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Mountaineering",
+                "description": "For us, mountaineering includes backpacking and rock climbing  sometimes separately, sometimes hiking and climbing on the same trip. It also includes a climbing tower. We like to teach young people to be at home in the woods, rain or shine, on the trail or off. Pisgah Forest, the Great Smokies National Park and a number of other wilderness areas are nearby.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/18753/linville079.jpg?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Nature Program",
+                "description": "Our Nature Lab aims to teach awareness and appreciation of the environment. The program bases its activities at the Nature Lab where we keep animals such as chickens, reptiles & amphibians, insects & spiders - but spends quite a bit of time out of camp as well, observing, collecting, and learning.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/19633/DSC_4470.jpg?fit=crop&w=1600&h=1067&crop=faces&auto=format"
+            },
+            {
+                "name": "Fishing",
+                "description": "Fishing fits well in our program as a lifelong outdoor skill that teaches patience and a deeper understanding of the natural world.  650-acre Lake Summit is home to several species of fish such as bluegill, sunfish, catfish and a few different bass.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/144621/download.jpg?fit=crop&w=800&h=533&crop=faces&auto=format"
+            },
+            {
+                "name": "Boat Shop & Woodworking",
+                "description": "Hands on carpentry and learning the patience required in this art is a hit with many of the boys.  The centerpiece of the program is Boat Shop in which boys are involved in the building of traditional canvas-covered wooden canoes. From steaming wood for bending, to painstakingly sanding and tacking ribs in place - they get to be a part of it all.  The shop is also for shorter and simpler woodworking projects from making mini-boats to engraving a cabin sign.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/143347/IMG_0774.jpg?fit=crop&w=800&h=533&crop=faces&auto=format"
+            },
+            {
+                "name": "Arts & Crafts",
+                "description": "Crafts at Mondamin is meant as a way to let the boys use the creative part of their brain and relax and learn a different set of talents in between our more high energy activities.  A typical summer might see them doing crafts such as tie-day, clay, copper enameling, painting, drawing, candle making, and turning items found on hikes in to projects. We almost always find something new to do every year.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137847/DSC_5358.JPG?fit=crop&w=800&h=533&crop=faces&auto=format"
+            },
+            {
+                "name": "Tennis & Pickleball",
+                "description": "We like racket sports for their long-term value  they are lifelong games for young and old. Lessons are offered daily. We play mixed doubles occasionally with our sister camp, Green Cove.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/137041/_MG_3114.JPG?fit=crop&w=800&h=533&crop=faces&auto=format"
+            },
+            {
+                "name": "Advanced Activities",
+                "description": "More advanced levels of major activities (like advanced whitewater canoeing and kayaking, extended rock climbing trips, etc) are normally attainable only in the longer Main Session and it may require more than one summer to fully experience these more advanced adventures. However, even the shorter session packs a lot of adventure and we believe, gives kids a great opportunity to develop some skill.",
+                "image_url": "https://typewriter.imgix.net/u/68fed2ef-0e63-4b79-a96e-e80b38da4ecd/p/143748/IMG_9326.JPG?fit=crop&w=800&h=533&crop=faces&auto=format"
+            }
+        ]
+    }
+]

@@ -1,0 +1,336 @@
+[
+    {
+        "name": "Timber Lake Camp",
+        "url": "https://www.timberlakecamp.com/",
+        "logo": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/Logo11.svg",
+        "description": [
+            "Timber Lake Camp sits on a mountaintop surrounded by 500 acres in New York\u2019s Catskill Mountains, just 2.5 hours from New York City. A traditional, co-ed camp, we feature two private, spring-fed lakes and an outstanding array of facilities on magnificently manicured grounds.",
+            "At Timber Lake, we foster values of sharing, integrity, responsibility and respect in a friendly, safe environment of fun. The best camp experience gives children greater self-confidence and self-esteem. They learn to value others by being valued themselves. And they leave camp with memories that will last a lifetime. This is what we have been doing successfully for more than six decades.",
+            "It is What Camp Was Always Meant To Be."
+        ],
+        "location": {
+            "address": [
+                "354 Timber Lake Road Shandaken, NY 12480",
+                "85 Crescent Beach Road Glen Cove, NY 11542"
+            ],
+            "zip_code": [
+                "12480",
+                "11542"
+            ],
+            "latitude": [
+                "42.12123",
+                "40.87364"
+            ],
+            "longitude": [
+                "-74.39387",
+                "-73.62323"
+            ]
+        },
+        "contact": {
+            "mail": "info@timberlakecamp.com",
+            "telephone": [
+                "845-688-2266",
+                "516-656-4200"
+            ]
+        },
+        "socials": [
+            {
+                "facebook": "http://www.facebook.com/timberlakecamp"
+            },
+            {
+                "twitter": "http://www.twitter.com/timberlakecamp"
+            },
+            {
+                "instagram": "https://www.instagram.com/timberlakecamp/"
+            },
+            {
+                "youtube": "https://www.youtube.com/user/TimberLakeCampVideos"
+            }
+        ],
+        "image_urls": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/sports-boys-424x424.jpg",
+        "sessions": {
+            "name": "null",
+            "start_date": "Saturday, June 28th, 2025",
+            "end_date": "Saturday, August 16th, 2025",
+            "cost": "$16,000",
+            "deposit": "$5,500",
+            "eligible": "null",
+            "duration": "null",
+            "location": "null"
+        },
+        "categories": [
+            {
+                "name": "Athletics",
+                "description": "At Timber Lake, the court is our classroom \u2013 we focus on sportsmanship, quality instruction, fun and safety! Our athletic program features top-quality instruction by experienced varsity & college coaches on outstanding facilities. The right balance between competition and having fun allows every camper to be comfortable joining in, while promoting teamwork and spirit. Winning is great, but our goal is that every camper walks off the field or court with more friends, more confidence, and higher self-esteem. Campers hone their skills through athletic instruction and clinics in a wide variety of sports \u2013 basketball, roller-hockey, baseball, softball, soccer, flag football, tennis, golf and lacrosse. Our elective periods allow your child to focus on their favorite sports with additional, advanced instruction and are also an opportunity to try something new. Not only do campers compete against each other, TLC participates in many different inter-camp tournaments for all ages. Some of the competitions we host include theJacobs Cup Basketball, theGordon Cup Roller Hockey, theMelter Cup Girls Softballand the Owner\u2019s Cup Baseball tournaments.",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/athletics-424x424.jpg"
+            },
+            {
+                "name": "Waterfront",
+                "description": "Our experienced Red Cross certified waterfront staff provides special attention to improving swim skills with the main emphasis, of course, on safety. Our outdoor heated pool makes free swim a favorite activity, while our two completely private spring-fed lakes, right in the heart of camp, provide the thrill of waterskiing and an extensive canoeing, kayaking and boating program. Campers also enjoy bouncing on our water trampoline in the middle of the North Lake, and zooming down our huge NEW WATER SLIDE!",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/raft-float-424x424.jpg"
+            },
+            {
+                "name": "Adventure",
+                "description": "Our adventure program focuses on both individual accomplishments and teamwork. Whether you\u2019re soaring high in the trees on the zip line across the lake, mountain biking through the wooded trails, tackling the quadruple-sided climbing wall or hiking to the North Dome, every day is a new experience at Outdoor Adventure! Camping at Tree Top Village is scheduled by age group, complete with stories around the campfire and eating s\u2019mores under the stars!",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/zip-lining-424x424.jpg"
+            },
+            {
+                "name": "Electives",
+                "description": "Combined with our scheduled athletics and waterfront activities, twice daily Elective periods allow campers to customize their summer program so each day is a new experience! Campers choose daily between a wide variety of athletic, adventure oriented, performing and creative arts, communications, design and technology Elective activities. All of our Electives feature experienced teachers and coaches to ensure that our campers get the highest quality of instruction in the areas of their greatest interest. Take a look at our list of Electives and just think of all the different possibilities!",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/robotics-424x424.jpg"
+            },
+            {
+                "name": "Special Events",
+                "description": "Each Wednesday we change the schedule and start the day with a slightly later wake-up, followed by a breakfast cook-out on our boys\u2019 and girls\u2019 campuses. A variety of theme days & activities ranging from our Olympics to our Jacobs Cup Basketball Tournament make Wednesdays special with everyone getting swept up in camp spirit! Camp doesn\u2019t slow down when the sun goes down. Whether it\u2019s a Saturday night theater production, a fun Friday night Social, outdoor games & contests or a late-night league game on one of our many lighted courts, evening activities are among the best times of the day at Timber Lake. Before bedtime, a stop with friends at the Canteen to grab a snack, hangout, play table tennis and billiards ends the day on the right note. Marathon, our version of Color War, is the perfect way to close out a great summer with 4 to 5 days of fun and intense competition. The camp is divided into two teams (Green & White) that compete in a variety of activities ranging from athletics, to the arts and favorites like the Apache Relay, and Rope Burn \u2013 which all culminates in Sing Night where the two teams perform their dances, skits & sing their alma maters.",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/girls-team-spirit-424x424.jpg"
+            },
+            {
+                "name": "Teen Program",
+                "description": "Our Ready For Life Program for Teens does exactly that; it prepares Teens for life in the real world. They\u2019ll learn how to approach job interviews, get tips for applying to colleges, master some recipes while cooking, practice the skills of good decision-making, better understand money and learn ways to navigate through a host of social issues. Concerts, Water Parks, Amusement Parks, Movies and more! We also offer an extended trip each summer, alternating between Washington, DC/Virginia and Toronto, Canada \u2013 and an overnight Whitewater Rafting trip just before Visiting Day. Our Leadership Training Program (LTP) is designed for our 2nd Year Teens who are looking to come back to camp as Junior Counselors the following summer. Teens help out in various roles \u2013 coaching and refereeing lower camp\u2019s athletic leagues, participating in our Big Brother/Big Sister program, while also giving a hand in the bunks. These positions help get them ready for the following summer and allow them to give back to the place they\u2019ve called their summer home for so many years.",
+                "image": "https://www.timberlakecamp.com/wp-content/uploads/2015/12/sports-boys-424x424.jpg"
+            }
+        ],
+        "activities": [
+            {
+                "name": "Advanced Soccer",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Baseball",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Basketball Clinics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Golf",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Hockey Clinics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Lacrosse",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Tennis Lessons",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Football clinics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Aerobics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Cheerleading",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Gymnastics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Martial Arts",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Rollerblading",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Spin Class",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Yoga",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Zumba",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Kayaking, Canoeing, SUP",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Water-Skiing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Wake-Boarding",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Water Trampoline",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Water Slide",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Swimming",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Climbing Wall",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Zip Lining",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Fishing",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "High & Low Ropes Course",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Hiking & Pioneering",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Mountain Biking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Geocaching",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Theater",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Dance",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Music",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Photography",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Culinary Arts",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Candlemaking",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Ceramics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Macrame",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Painting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Jewelry Making",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Woodshop",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Costume Design",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Knitting & Crocheting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Television & Film",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Radio Broadcasting",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Digital Design",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Robotics",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "Computer Programming",
+                "description": "null",
+                "image": "null"
+            },
+            {
+                "name": "3D Design & Printing",
+                "description": "null",
+                "image": "null"
+            }
+        ]
+    }
+]
